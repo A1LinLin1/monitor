@@ -14,9 +14,12 @@
 #include <QMessageBox>
 #include <QFile>
 #include <QTextStream>
+#include <QTimer>
 
+// 包含共享配置
 #include "myhook/config.h"
 
+// Win32 窗口枚举回调函数
 BOOL CALLBACK EnumWindowsProc(HWND hwnd, LPARAM lParam) {
     wchar_t title[256];
     if (IsWindowVisible(hwnd) && GetWindowText(hwnd, title, 256) > 0) {
@@ -27,95 +30,167 @@ BOOL CALLBACK EnumWindowsProc(HWND hwnd, LPARAM lParam) {
     return TRUE;
 }
 
-MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent), m_isRecording(false) {
+MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent), m_isRecording(false), m_lastPos(0) {
     loadHookDLL();
     setupUI();
     setupTray();
     on_refreshWindows();
-    loadHistory(); 
 
+    // 1. 确定日志路径（确保与 logger.cpp 中一致）
+    m_logFilePath = "logs/total_history.txt";
+
+    // 2. 初始化读取位置：跳过历史，从当前时间点开始增量显示
+    QFile file(m_logFilePath);
+    if (file.exists()) {
+        m_lastPos = file.size(); 
+    }
+
+    // 3. 启动扫描定时器 (每500ms检查一次文件是否有新行)
+    m_scanTimer = new QTimer(this);
+    connect(m_scanTimer, &QTimer::timeout, this, &MainWindow::updateLogsFromFile);
+    m_scanTimer->start(500);
+
+    // 绑定热键 ScrollLock
     RegisterHotKey((HWND)this->winId(), 2001, 0, VK_SCROLL);
     Config::hMainWnd = (HWND)this->winId();
 }
 
-void MainWindow::loadHistory() {
-    QFile file("logs/total_history.txt");
+// 核心：增量读取文件并着色显示
+void MainWindow::updateLogsFromFile() {
+    QFile file(m_logFilePath);
     if (!file.open(QIODevice::ReadOnly | QIODevice::Text)) return;
 
+    // 如果文件大小变小了（说明被清理过），重置指针
+    if (file.size() < m_lastPos) m_lastPos = 0;
+    
+    file.seek(m_lastPos);
     QTextStream in(&file);
+    
+    bool hasNewData = false;
     while (!in.atEnd()) {
         QString line = in.readLine();
         if (line.isEmpty()) continue;
 
+        // 解析格式: [2025-12-23 01:00:00] [窗口名] 内容
         int firstClose = line.indexOf("]");
         int secondOpen = line.indexOf("[", firstClose);
         int secondClose = line.indexOf("]", secondOpen);
 
         if (firstClose != -1 && secondOpen != -1 && secondClose != -1) {
             LogRecord rec;
-            rec.time = QDateTime::fromString(line.mid(1, firstClose - 1), "yyyy-MM-dd HH:mm:ss");
+            // 提取时间
+            QString timeStr = line.mid(1, firstClose - 1);
+            rec.time = QDateTime::fromString(timeStr, "yyyy-MM-dd HH:mm:ss");
+            // 提取窗口名
             rec.windowName = line.mid(secondOpen + 1, secondClose - secondOpen - 1);
             rec.content = line;
             rec.isKeyboard = line.contains("Key:") || line.contains("Special:");
+
+            // 存入内存缓存用于筛选
             m_allLogs.append(rec);
-            m_detectedWindows.insert(rec.windowName);
+            if (m_allLogs.size() > 5000) m_allLogs.removeFirst();
+
+            // 动态发现新窗口
+            if (!m_detectedWindows.contains(rec.windowName)) {
+                m_detectedWindows.insert(rec.windowName);
+                if (m_winSelector->findText(rec.windowName) == -1) 
+                    m_winSelector->addItem(rec.windowName);
+            }
+
+            // 如果符合当前筛选条件，插入彩色日志
+            if (checkIfMatchFilter(rec)) {
+                addColoredLog(rec);
+                hasNewData = true;
+            }
         }
     }
+    m_lastPos = file.pos();
     file.close();
-    for(const QString& win : m_detectedWindows) {
-        if(m_winSelector->findText(win) == -1) m_winSelector->addItem(win);
+
+    if (hasNewData) m_logList->scrollToBottom();
+}
+
+// 浅色主题下的日志着色
+void MainWindow::addColoredLog(const LogRecord& rec) {
+    QListWidgetItem *item = new QListWidgetItem();
+    // 界面只显示 [时:分:秒] + 内容，更简洁
+    QString shortTime = rec.time.isValid() ? rec.time.toString("HH:mm:ss") : QTime::currentTime().toString("HH:mm:ss");
+    item->setText(QString("[%1] %2").arg(shortTime).arg(rec.content));
+
+    // 根据内容类型设置深色系颜色（确保在白色背景上清晰）
+    if (rec.content.contains("Key:")) {
+        item->setForeground(QColor("#0055cc")); // 深蓝色：普通按键
+    } else if (rec.content.contains("Special:")) {
+        item->setForeground(QColor("#880088")); // 深紫色：功能键 (Ctrl/Alt等)
+    } else if (rec.content.contains("Click")) {
+        item->setForeground(QColor("#d35400")); // 深橙色：点击
+    } else {
+        item->setForeground(QColor("#7f8c8d")); // 灰色：移动
     }
-    applyFilter();
+    m_logList->addItem(item);
 }
 
 void MainWindow::setupUI() {
     QWidget *central = new QWidget(this);
     QGridLayout *layout = new QGridLayout(central);
 
+    // --- 浅色清新皮肤 QSS ---
+    this->setStyleSheet(
+        "QMainWindow { background-color: #f5f6f7; } "
+        "QPushButton { background-color: #ffffff; border: 1px solid #dcdfe6; border-radius: 4px; padding: 8px; color: #606266; } "
+        "QPushButton:hover { background-color: #ecf5ff; color: #409eff; border-color: #c6e2ff; } "
+        "QListWidget { background-color: #ffffff; border: 1px solid #dcdfe6; border-radius: 4px; font-family: 'Consolas', 'Microsoft YaHei'; font-size: 10pt; } "
+        "QCheckBox { color: #606266; } "
+        "QComboBox, QDateTimeEdit { background-color: #ffffff; border: 1px solid #dcdfe6; padding: 3px; color: #606266; } "
+        "QLabel { color: #909399; font-size: 9pt; }"
+    );
+
+    // 控制按钮
     m_btnRecord = new QPushButton(" 开始录制 (ScrollLock) ");
     m_btnRecord->setFixedHeight(50);
+    m_btnRecord->setStyleSheet("font-weight: bold; font-size: 12pt; color: #2ecc71; border: 2px solid #2ecc71;");
     layout->addWidget(m_btnRecord, 0, 0, 1, 2);
 
+    // 勾选框
     m_checkKbd = new QCheckBox("记录键盘按键");
-    m_checkMouse = new QCheckBox("记录鼠标相对位移");
-    m_checkKbd->setChecked(true);
-    m_checkMouse->setChecked(true);
+    m_checkMouse = new QCheckBox("记录鼠标操作");
+    m_checkKbd->setChecked(true); m_checkMouse->setChecked(true);
     layout->addWidget(m_checkKbd, 1, 0);
     layout->addWidget(m_checkMouse, 1, 1);
 
+    // 筛选
     m_winSelector = new QComboBox();
     m_winSelector->addItem("--- 全局模式 (所有窗口) ---");
-    QPushButton *btnRefresh = new QPushButton(" 刷新列表 ");
+    QPushButton *btnRefresh = new QPushButton("刷新列表");
     layout->addWidget(new QLabel("目标窗口:"), 2, 0);
     layout->addWidget(m_winSelector, 3, 0);
     layout->addWidget(btnRefresh, 3, 1);
 
-    m_startTime = new QDateTimeEdit(QDateTime::currentDateTime().addDays(-7));
+    // 时间筛选
+    m_startTime = new QDateTimeEdit(QDateTime::currentDateTime().addDays(-1));
     m_endTime = new QDateTimeEdit(QDateTime::currentDateTime().addDays(1));
-    m_startTime->setCalendarPopup(true);
-    m_endTime->setCalendarPopup(true);
-    layout->addWidget(new QLabel("历史回溯筛选 (从):"), 4, 0);
+    m_startTime->setCalendarPopup(true); m_endTime->setCalendarPopup(true);
+    layout->addWidget(new QLabel("历史回溯 (从):"), 4, 0);
     layout->addWidget(m_startTime, 5, 0);
     layout->addWidget(new QLabel("至 (到):"), 4, 1);
     layout->addWidget(m_endTime, 5, 1);
 
-    m_statusLabel = new QLabel("状态: 空闲");
+    m_statusLabel = new QLabel("状态: 等绪");
     m_statusLabel->setAlignment(Qt::AlignCenter);
     layout->addWidget(m_statusLabel, 6, 0, 1, 2);
 
+    // 日志列表
     m_logList = new QListWidget();
-    m_logList->setStyleSheet("font-family: 'Consolas'; font-size: 10pt;");
     layout->addWidget(m_logList, 7, 0, 1, 2);
 
     setCentralWidget(central);
-    setWindowTitle("Pro Input Recorder v3.6");
-    resize(900, 750);
+    setWindowTitle("Input Monitor Pro v3.8");
+    resize(850, 750);
 
+    // 信号绑定
     connect(m_btnRecord, &QPushButton::clicked, this, &MainWindow::on_toggleRecording);
     connect(btnRefresh, &QPushButton::clicked, this, &MainWindow::on_refreshWindows);
     connect(m_winSelector, &QComboBox::currentTextChanged, this, &MainWindow::applyFilter);
-    connect(m_startTime, &QDateTimeEdit::dateTimeChanged, this, &MainWindow::applyFilter);
-    connect(m_endTime, &QDateTimeEdit::dateTimeChanged, this, &MainWindow::applyFilter);
     connect(m_checkKbd, &QCheckBox::stateChanged, this, &MainWindow::applyFilter);
     connect(m_checkMouse, &QCheckBox::stateChanged, this, &MainWindow::applyFilter);
 }
@@ -123,8 +198,8 @@ void MainWindow::setupUI() {
 void MainWindow::setupTray() {
     m_trayIcon = new QSystemTrayIcon(this);
     m_trayIcon->setIcon(style()->standardIcon(QStyle::SP_ComputerIcon));
-    QMenu *menu = new QMenu(this);
     
+    QMenu *menu = new QMenu(this);
     m_actToggle = menu->addAction("开始录制", this, &MainWindow::on_toggleRecording);
     menu->addSeparator();
 
@@ -139,7 +214,7 @@ void MainWindow::setupTray() {
     connect(m_checkMouse, &QCheckBox::toggled, m_actMouse, &QAction::setChecked);
 
     menu->addSeparator();
-    menu->addAction("恢复界面", this, &MainWindow::showNormal);
+    menu->addAction("恢复窗口", this, &MainWindow::showNormal);
     menu->addAction("彻底退出", qApp, &QApplication::quit);
 
     m_trayIcon->setContextMenu(menu);
@@ -147,78 +222,9 @@ void MainWindow::setupTray() {
     connect(m_trayIcon, &QSystemTrayIcon::activated, this, &MainWindow::on_trayActivated);
 }
 
-void MainWindow::closeEvent(QCloseEvent *event) {
-    if (m_trayIcon->isVisible()) {
-        this->hide();
-        m_trayIcon->showMessage("Monitor Recorder", "程序已最小化到托盘", QSystemTrayIcon::Information, 1500);
-        event->ignore(); 
-    }
-}
-
-bool MainWindow::nativeEvent(const QByteArray &eventType, void *message, qintptr *result) {
-    MSG* msg = static_cast<MSG*>(message);
-    if (msg->message == WM_HOTKEY && msg->wParam == 2001) {
-        on_toggleRecording();
-        return true;
-    }
-    if (msg->message == WM_COPYDATA) {
-        PCOPYDATASTRUCT pcds = reinterpret_cast<PCOPYDATASTRUCT>(msg->lParam);
-        if (!pcds || !pcds->lpData) return true;
-
-        QString raw = QString::fromUtf8(reinterpret_cast<const char*>(pcds->lpData));
-
-        int firstClose = raw.indexOf("]");
-        int secondOpen = raw.indexOf("[", firstClose);
-        int secondClose = raw.indexOf("]", secondOpen);
-
-        if (secondOpen != -1 && secondClose != -1) {
-            LogRecord rec;
-            rec.time = QDateTime::currentDateTime();
-            rec.content = raw;
-            rec.windowName = raw.mid(secondOpen + 1, secondClose - secondOpen - 1);
-            rec.isKeyboard = raw.contains("Key:") || raw.contains("Special:");
-            
-            m_allLogs.append(rec);
-            if (m_allLogs.size() > 5000) m_allLogs.removeFirst();
-            
-            if (!m_detectedWindows.contains(rec.windowName)) {
-                m_detectedWindows.insert(rec.windowName);
-                if (m_winSelector->findText(rec.windowName) == -1) 
-                    m_winSelector->addItem(rec.windowName);
-            }
-
-            if (checkIfMatchFilter(rec)) {
-                m_logList->addItem(QString("[%1] %2").arg(rec.time.toString("HH:mm:ss")).arg(rec.content));
-                m_logList->scrollToBottom();
-            }
-        }
-        return true;
-    }
-    return QMainWindow::nativeEvent(eventType, message, result);
-}
-
-bool MainWindow::checkIfMatchFilter(const LogRecord& log) {
-    if (log.time < m_startTime->dateTime() || log.time > m_endTime->dateTime()) return false;
-    QString targetWin = m_winSelector->currentText();
-    if (targetWin != "--- 全局模式 (所有窗口) ---" && log.windowName != targetWin) return false;
-    if (log.isKeyboard && !m_checkKbd->isChecked()) return false;
-    if (!log.isKeyboard && !m_checkMouse->isChecked()) return false;
-    return true;
-}
-
-void MainWindow::applyFilter() {
-    m_logList->clear();
-    for (const auto& log : m_allLogs) {
-        if (checkIfMatchFilter(log)) {
-            m_logList->addItem(QString("[%1] %2").arg(log.time.toString("HH:mm:ss")).arg(log.content));
-        }
-    }
-    m_logList->scrollToBottom();
-}
-
 void MainWindow::on_toggleRecording() {
     if (!fpInstallHook) {
-        QMessageBox::critical(this, "错误", "无法加载 myhook.dll 导出函数！");
+        QMessageBox::warning(this, "错误", "DLL 未加载，请检查 myhook.dll");
         return;
     }
 
@@ -231,19 +237,56 @@ void MainWindow::on_toggleRecording() {
         fpInstallHook();
 
         m_btnRecord->setText(" 停止录制 (ScrollLock) ");
-        m_statusLabel->setText("状态: ● 正在录制");
-        m_statusLabel->setStyleSheet("color: red; font-weight: bold;");
+        m_btnRecord->setStyleSheet("font-weight: bold; font-size: 12pt; color: #e74c3c; border: 2px solid #e74c3c;");
+        m_statusLabel->setText("状态: ● 正在监控");
         m_actToggle->setText("停止录制");
         this->hide(); 
     } else {
         fpUninstallHook();
         m_btnRecord->setText(" 开始录制 (ScrollLock) ");
-        m_statusLabel->setText("状态: 空闲");
-        m_statusLabel->setStyleSheet("color: black; font-weight: normal;");
+        m_btnRecord->setStyleSheet("font-weight: bold; font-size: 12pt; color: #2ecc71; border: 2px solid #2ecc71;");
+        m_statusLabel->setText("状态: 等绪");
         m_actToggle->setText("开始录制");
         this->showNormal();
-        this->activateWindow();
     }
+}
+
+bool MainWindow::checkIfMatchFilter(const LogRecord& log) {
+    if (log.time.isValid() && (log.time < m_startTime->dateTime() || log.time > m_endTime->dateTime())) return false;
+    
+    QString targetWin = m_winSelector->currentText();
+    if (targetWin != "--- 全局模式 (所有窗口) ---" && log.windowName != targetWin) return false;
+
+    if (log.isKeyboard && !m_checkKbd->isChecked()) return false;
+    if (!log.isKeyboard && !m_checkMouse->isChecked()) return false;
+
+    return true;
+}
+
+void MainWindow::applyFilter() {
+    m_logList->clear();
+    for (const auto& log : m_allLogs) {
+        if (checkIfMatchFilter(log)) {
+            addColoredLog(log);
+        }
+    }
+    m_logList->scrollToBottom();
+}
+
+void MainWindow::closeEvent(QCloseEvent *event) {
+    if (m_trayIcon->isVisible()) {
+        this->hide();
+        event->ignore();
+    }
+}
+
+bool MainWindow::nativeEvent(const QByteArray &eventType, void *message, qintptr *result) {
+    MSG* msg = static_cast<MSG*>(message);
+    if (msg->message == WM_HOTKEY && msg->wParam == 2001) {
+        on_toggleRecording();
+        return true;
+    }
+    return QMainWindow::nativeEvent(eventType, message, result);
 }
 
 void MainWindow::on_refreshWindows() {

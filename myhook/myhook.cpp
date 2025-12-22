@@ -9,6 +9,20 @@ HHOOK hMouseHook = NULL;
 Logger logger("logs"); 
 POINT lastMousePos = { 0 };
 
+// 辅助函数：判断当前窗口是否需要记录
+bool ShouldRecordCurrentWindow() {
+    // 关键修正：确保 Config::targetWindowTitle 已经由 SetRecordConfig 填充
+    if (wcslen(Config::targetWindowTitle) == 0) return true;
+
+    HWND hwnd = GetForegroundWindow();
+    wchar_t currentTitle[256];
+    if (GetWindowTextW(hwnd, currentTitle, 256) > 0) {
+        // 模糊匹配：只要当前标题包含目标标题即可
+        return (wcsstr(currentTitle, Config::targetWindowTitle) != NULL);
+    }
+    return false;
+}
+
 // 获取功能键的可读名称
 std::string GetVirtualKeyName(WPARAM vkCode) {
     switch (vkCode) {
@@ -22,16 +36,6 @@ std::string GetVirtualKeyName(WPARAM vkCode) {
         case VK_BACK: return "Backspace";
         case VK_RETURN: return "Enter";
         case VK_SPACE: return "Space";
-        case VK_PRIOR: return "PageUp";
-        case VK_NEXT: return "PageDown";
-        case VK_END: return "End";
-        case VK_HOME: return "Home";
-        case VK_LEFT: return "Left";
-        case VK_UP: return "Up";
-        case VK_RIGHT: return "Right";
-        case VK_DOWN: return "Down";
-        case VK_INSERT: return "Insert";
-        case VK_DELETE: return "Delete";
         default:
             if (vkCode >= VK_F1 && vkCode <= VK_F12) 
                 return "F" + std::to_string(vkCode - VK_F1 + 1);
@@ -53,8 +57,10 @@ std::string GetActiveWindowTitleStr() {
 LRESULT CALLBACK KeyboardProc(int nCode, WPARAM wParam, LPARAM lParam) {
     if (nCode >= 0 && Config::recordKeyboard) {
         if (wParam == WM_KEYDOWN || wParam == WM_SYSKEYDOWN) {
+            // 只有符合过滤条件时才继续执行记录
+            if (!ShouldRecordCurrentWindow()) return CallNextHookEx(hKeyboardHook, nCode, wParam, lParam);
+
             KBDLLHOOKSTRUCT* p = (KBDLLHOOKSTRUCT*)lParam;
-            
             BYTE keyState[256];
             GetKeyboardState(keyState);
             keyState[VK_SHIFT] = GetKeyState(VK_SHIFT);
@@ -66,16 +72,16 @@ LRESULT CALLBACK KeyboardProc(int nCode, WPARAM wParam, LPARAM lParam) {
             char buf[512];
             std::string windowName = GetActiveWindowTitleStr();
             
-            if (res > 0) { // 如果是 ASCII 或可见字符
+            if (res > 0) { 
                 wch[res] = L'\0';
                 char utf8Char[16];
                 WideCharToMultiByte(CP_UTF8, 0, wch, -1, utf8Char, 16, NULL, NULL);
                 sprintf_s(buf, "[%s] Key: %s", windowName.c_str(), utf8Char);
-            } else { // 否则显示功能键名称
+            } else { 
                 std::string keyName = GetVirtualKeyName(p->vkCode);
                 sprintf_s(buf, "[%s] Special: [%s]", windowName.c_str(), keyName.c_str());
             }
-            logger.log(buf); // 内部会发送 WM_COPYDATA
+            logger.log(buf); 
         }
     }
     return CallNextHookEx(hKeyboardHook, nCode, wParam, lParam);
@@ -83,6 +89,8 @@ LRESULT CALLBACK KeyboardProc(int nCode, WPARAM wParam, LPARAM lParam) {
 
 LRESULT CALLBACK MouseProc(int nCode, WPARAM wParam, LPARAM lParam) {
     if (nCode >= 0 && Config::recordMouse) {
+        if (!ShouldRecordCurrentWindow()) return CallNextHookEx(hMouseHook, nCode, wParam, lParam);
+        
         MSLLHOOKSTRUCT* p = (MSLLHOOKSTRUCT*)lParam;
         std::string action = "";
         if (wParam == WM_LBUTTONDOWN) action = "Left Click";
@@ -103,8 +111,15 @@ LRESULT CALLBACK MouseProc(int nCode, WPARAM wParam, LPARAM lParam) {
     return CallNextHookEx(hMouseHook, nCode, wParam, lParam);
 }
 
+// 修正：将 UI 传来的标题拷贝到共享配置中
 extern "C" __declspec(dllexport) void SetRecordConfig(bool k, bool m, const wchar_t* t) {
-    Config::recordKeyboard = k; Config::recordMouse = m;
+    Config::recordKeyboard = k; 
+    Config::recordMouse = m;
+    if (t) {
+        wcscpy_s(Config::targetWindowTitle, t); // 核心修正点
+    } else {
+        Config::targetWindowTitle[0] = L'\0';
+    }
 }
 
 extern "C" __declspec(dllexport) void InstallHook() {
