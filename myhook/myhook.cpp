@@ -54,34 +54,53 @@ std::string GetActiveWindowTitleStr() {
     return "Unknown";
 }
 
+// myhook.cpp
+
 LRESULT CALLBACK KeyboardProc(int nCode, WPARAM wParam, LPARAM lParam) {
     if (nCode >= 0 && Config::recordKeyboard) {
         if (wParam == WM_KEYDOWN || wParam == WM_SYSKEYDOWN) {
-            // 只有符合过滤条件时才继续执行记录
             if (!ShouldRecordCurrentWindow()) return CallNextHookEx(hKeyboardHook, nCode, wParam, lParam);
 
             KBDLLHOOKSTRUCT* p = (KBDLLHOOKSTRUCT*)lParam;
-            BYTE keyState[256];
-            GetKeyboardState(keyState);
-            keyState[VK_SHIFT] = GetKeyState(VK_SHIFT);
-            keyState[VK_CAPITAL] = GetKeyState(VK_CAPITAL);
-
-            wchar_t wch[5];
-            int res = ToUnicode(p->vkCode, p->scanCode, keyState, wch, 4, 0);
-
             char buf[512];
             std::string windowName = GetActiveWindowTitleStr();
-            
-            if (res > 0) { 
-                wch[res] = L'\0';
-                char utf8Char[16];
-                WideCharToMultiByte(CP_UTF8, 0, wch, -1, utf8Char, 16, NULL, NULL);
-                sprintf_s(buf, "[%s] Key: %s", windowName.c_str(), utf8Char);
-            } else { 
-                std::string keyName = GetVirtualKeyName(p->vkCode);
-                sprintf_s(buf, "[%s] Special: [%s]", windowName.c_str(), keyName.c_str());
+            std::string keyName = "";
+
+            // --- 优先拦截控制键，防止出现换行或方块 ---
+            switch (p->vkCode) {
+                case VK_RETURN: keyName = "[Enter]"; break;
+                case VK_BACK:   keyName = "[Backspace]"; break;
+                case VK_TAB:    keyName = "[Tab]"; break;
+                case VK_ESCAPE: keyName = "[Esc]"; break;
+                case VK_LCONTROL: case VK_RCONTROL: keyName = "[Ctrl]"; break;
+                case VK_LMENU:    case VK_RMENU:    keyName = "[Alt]"; break;
+                case VK_LSHIFT:   case VK_RSHIFT:   keyName = "[Shift]"; break;
+                case VK_SPACE:  keyName = "[Space]"; break;
             }
-            logger.log(buf); 
+
+            if (!keyName.empty()) {
+                sprintf_s(buf, "[%s] Special: %s", windowName.c_str(), keyName.c_str());
+            } else {
+                // 如果不是控制键，尝试转为可见字符 (A-Z, 0-9 等)
+                BYTE keyState[256];
+                GetKeyboardState(keyState);
+                keyState[VK_SHIFT] = GetKeyState(VK_SHIFT);
+                keyState[VK_CAPITAL] = GetKeyState(VK_CAPITAL);
+                wchar_t wch[5];
+                int res = ToUnicode(p->vkCode, p->scanCode, keyState, wch, 4, 0);
+
+                if (res > 0) {
+                    wch[res] = L'\0';
+                    char utf8Char[16];
+                    WideCharToMultiByte(CP_UTF8, 0, wch, -1, utf8Char, 16, NULL, NULL);
+                    sprintf_s(buf, "[%s] Key: %s", windowName.c_str(), utf8Char);
+                } else {
+                    // 其他功能键 (F1-F12等)
+                    keyName = GetVirtualKeyName(p->vkCode);
+                    sprintf_s(buf, "[%s] Special: [%s]", windowName.c_str(), keyName.c_str());
+                }
+            }
+            logger.log(buf);
         }
     }
     return CallNextHookEx(hKeyboardHook, nCode, wParam, lParam);
@@ -111,17 +130,18 @@ LRESULT CALLBACK MouseProc(int nCode, WPARAM wParam, LPARAM lParam) {
     return CallNextHookEx(hMouseHook, nCode, wParam, lParam);
 }
 
-// 修正：将 UI 传来的标题拷贝到共享配置中
+// myhook.cpp
 extern "C" __declspec(dllexport) void SetRecordConfig(bool k, bool m, const wchar_t* t) {
-    Config::recordKeyboard = k; 
+    Config::recordKeyboard = k;
     Config::recordMouse = m;
-    if (t) {
-        wcscpy_s(Config::targetWindowTitle, t); // 核心修正点
+    
+    if (t && wcslen(t) > 0) {
+        wcscpy_s(Config::targetWindowTitle, t);
     } else {
+        // 如果是全局模式，把目标标题清空
         Config::targetWindowTitle[0] = L'\0';
     }
 }
-
 extern "C" __declspec(dllexport) void InstallHook() {
     GetCursorPos(&lastMousePos);
     hKeyboardHook = SetWindowsHookEx(WH_KEYBOARD_LL, KeyboardProc, GetModuleHandleW(L"myhook.dll"), 0);

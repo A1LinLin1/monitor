@@ -43,20 +43,25 @@ protected:
 private slots:
     void on_toggleRecording();
     void on_refreshWindows();
-    void applyFilter();
-    void updateLogsFromFile(); // 定时扫描函数
+    void on_searchHistory();      // 搜索历史按钮
+    void applyFilter();           // 过滤当前内存数据
+    void updateLogsFromFile();    // 定时扫描增量文件
+    void on_copyLog();            // 复制选中日志
+    void syncConfigToDll();
     void on_trayActivated(QSystemTrayIcon::ActivationReason reason);
+    void showLogContextMenu(const QPoint &pos); // 日志右键菜单
 
 private:
     void setupUI();
     void setupTray();
     void loadHookDLL();
-    void loadHistory(); 
-    void addColoredLog(const LogRecord& rec); // 酷炫彩色日志
+    void addColoredLog(const LogRecord& rec); 
     bool checkIfMatchFilter(const LogRecord& log);
 
 private:
+    // UI
     QPushButton *m_btnRecord;
+    QPushButton *m_btnSearch;
     QCheckBox *m_checkKbd;
     QCheckBox *m_checkMouse;
     QComboBox *m_winSelector;
@@ -65,20 +70,23 @@ private:
     QLabel *m_statusLabel;
     QListWidget *m_logList;
 
+    // 托盘
     QSystemTrayIcon *m_trayIcon;
-    QAction *m_actKbd;
-    QAction *m_actMouse;
     QAction *m_actToggle;
+    QAction *m_actKbd;   
+    QAction *m_actMouse;
 
+    // 数据与状态
     QList<LogRecord> m_allLogs;
     QSet<QString> m_detectedWindows;
     bool m_isRecording;
     
-    // 文件扫描相关
+    // 扫描逻辑变量
     QString m_logFilePath;
     qint64 m_lastPos;
     QTimer *m_scanTimer;
 
+    // DLL 接口
     InstallFunc fpInstallHook = nullptr;
     UninstallFunc fpUninstallHook = nullptr;
     SetConfigFunc fpSetRecordConfig = nullptr;
