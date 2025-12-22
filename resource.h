@@ -1,0 +1,2 @@
+#define IDI_MAIN_ICON 101
+#define IDI_REC_ICON  102

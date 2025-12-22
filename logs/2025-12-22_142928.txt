@@ -1,0 +1,2208 @@
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 18,10
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 11,3
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 11,3
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 14,4
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 13,4
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 14,2
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 15,3
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 15,1
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 19,3
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 23,4
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 26,3
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 34,6
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 36,3
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 43,7
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 37,7
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 40,8
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 39,3
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 37,7
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 30,2
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 41,2
+[2025-12-22 14:29:34] [monitor - 文件资源管理器] Move: 11,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 16,7
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 22,6
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 13,2
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 20,7
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 28,12
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 39,14
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 49,18
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 53,27
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 52,20
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 58,24
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 64,32
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 64,39
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 67,43
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 65,46
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 56,33
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 57,40
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 47,34
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 49,35
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 46,32
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 33,30
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 34,30
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 31,28
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 32,31
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 22,26
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 22,25
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 14,20
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 10,19
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: 3,13
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -13,8
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -15,5
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -15,5
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -19,6
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -14,4
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -11,3
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -15,2
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -15,2
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -18,1
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -21,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -25,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -25,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -35,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -38,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -38,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -35,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -38,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -30,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -33,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -30,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -40,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -38,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -41,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -46,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -38,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -33,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -27,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -30,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -24,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -20,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -19,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -16,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -17,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -13,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -13,3
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -12,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -11,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -17,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -14,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -17,0
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -13,-5
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -13,-3
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -20,-5
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -24,-8
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -35,-9
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -43,-11
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -41,-9
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -46,-14
+[2025-12-22 14:29:35] [monitor - 文件资源管理器] Move: -52,-3
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -47,-8
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -53,-8
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -50,-4
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -63,-6
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -57,0
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -57,0
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -54,0
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -56,0
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -68,-2
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -66,-4
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -62,0
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -74,0
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -68,0
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -61,0
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -61,0
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -54,0
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -61,0
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -54,0
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -35,-2
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -6,13
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -6,11
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: -1,12
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: 0,11
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: 14,15
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: 15,10
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: 12,9
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: 13,7
+[2025-12-22 14:29:36] [monitor - 文件资源管理器] Move: 11,5
+[2025-12-22 14:29:37] [monitor - 文件资源管理器] Mouse: Left Click
+[2025-12-22 14:29:37] [系统托盘溢出窗口。] Move: -5,-14
+[2025-12-22 14:29:37] [系统托盘溢出窗口。] Move: -5,-15
+[2025-12-22 14:29:37] [系统托盘溢出窗口。] Move: -5,-14
+[2025-12-22 14:29:37] [系统托盘溢出窗口。] Move: -6,-13
+[2025-12-22 14:29:37] [系统托盘溢出窗口。] Move: -6,-13
+[2025-12-22 14:29:37] [系统托盘溢出窗口。] Move: -7,-13
+[2025-12-22 14:29:37] [系统托盘溢出窗口。] Move: -5,-14
+[2025-12-22 14:29:37] [系统托盘溢出窗口。] Move: -6,-12
+[2025-12-22 14:29:37] [系统托盘溢出窗口。] Move: -8,-14
+[2025-12-22 14:29:37] [系统托盘溢出窗口。] Move: -6,-11
+[2025-12-22 14:29:37] [系统托盘溢出窗口。] Move: -9,-11
+[2025-12-22 14:29:37] [系统托盘溢出窗口。] Move: -7,-15
+[2025-12-22 14:29:37] [系统托盘溢出窗口。] Move: -8,-11
+[2025-12-22 14:29:37] [系统托盘溢出窗口。] Move: -6,-12
+[2025-12-22 14:29:37] [系统托盘溢出窗口。] Move: -5,-12
+[2025-12-22 14:29:37] [系统托盘溢出窗口。] Mouse: Right Click
+[2025-12-22 14:29:38] [Pro Input Recorder v3.1] Move: 2,-11
+[2025-12-22 14:29:38] [Pro Input Recorder v3.1] Move: 12,-7
+[2025-12-22 14:29:38] [Pro Input Recorder v3.1] Move: 11,-6
+[2025-12-22 14:29:38] [Pro Input Recorder v3.1] Move: 10,11
+[2025-12-22 14:29:38] [Pro Input Recorder v3.1] Move: 11,10
+[2025-12-22 14:29:38] [Pro Input Recorder v3.1] Mouse: Left Click
+[2025-12-22 14:29:38] [Pro Input Recorder v3.1] Move: 14,-5
+[2025-12-22 14:29:38] [Pro Input Recorder v3.1] Move: 11,-19
+[2025-12-22 14:29:38] [Pro Input Recorder v3.1] Move: 11,-19
+[2025-12-22 14:29:38] [Pro Input Recorder v3.1] Move: 12,-15
+[2025-12-22 14:29:38] [Pro Input Recorder v3.1] Move: 16,-21
+[2025-12-22 14:29:38] [Pro Input Recorder v3.1] Move: 16,-21
+[2025-12-22 14:29:38] [Pro Input Recorder v3.1] Move: 13,-21
+[2025-12-22 14:29:38] [Pro Input Recorder v3.1] Move: 16,-21
+[2025-12-22 14:29:38] [Pro Input Recorder v3.1] Move: 19,-24
+[2025-12-22 14:29:38] [Pro Input Recorder v3.1] Move: 17,-27
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 20,-37
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 18,-33
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 21,-33
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 21,-34
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 22,-25
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 27,-32
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 25,-21
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 25,-19
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 21,-14
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 12,-10
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 12,-8
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 12,-8
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 14,-5
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 20,0
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 13,0
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 13,0
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 19,0
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 20,0
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 24,0
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 40,-8
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 32,-8
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 35,-7
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 35,-9
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 40,-11
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 43,-11
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 44,-16
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 57,-16
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 41,-15
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 47,-19
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 44,-18
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 31,-14
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 29,-13
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 16,-9
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 16,-11
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 13,-15
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: 0,-15
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -12,-11
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -13,-10
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -15,-9
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -16,-9
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -16,-3
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -11,-2
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -11,-1
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -21,0
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -11,0
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -18,3
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -19,12
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -17,14
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -18,16
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -14,13
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -14,12
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -12,10
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -13,10
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -11,5
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -13,2
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -11,3
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -11,1
+[2025-12-22 14:29:39] [Pro Input Recorder v3.1] Move: -11,4
+[2025-12-22 14:29:40] [Pro Input Recorder v3.1] Move: 10,12
+[2025-12-22 14:29:40] [Pro Input Recorder v3.1] Move: -6,-12
+[2025-12-22 14:29:40] [Pro Input Recorder v3.1] Move: -6,-11
+[2025-12-22 14:29:40] [Pro Input Recorder v3.1] Move: -11,-8
+[2025-12-22 14:29:41] [Pro Input Recorder v3.1] Mouse: Left Click
+[2025-12-22 14:29:42] [Pro Input Recorder v3.1] Move: 14,-6
+[2025-12-22 14:29:42] [Pro Input Recorder v3.1] Move: 12,-1
+[2025-12-22 14:29:42] [Pro Input Recorder v3.1] Move: 15,-2
+[2025-12-22 14:29:42] [Pro Input Recorder v3.1] Move: 23,-3
+[2025-12-22 14:29:42] [Pro Input Recorder v3.1] Move: 24,-5
+[2025-12-22 14:29:42] [Pro Input Recorder v3.1] Move: 25,-3
+[2025-12-22 14:29:42] [Pro Input Recorder v3.1] Move: 32,-6
+[2025-12-22 14:29:42] [Pro Input Recorder v3.1] Move: 31,-4
+[2025-12-22 14:29:42] [Pro Input Recorder v3.1] Move: 35,-7
+[2025-12-22 14:29:42] [Pro Input Recorder v3.1] Move: 27,-8
+[2025-12-22 14:29:42] [Pro Input Recorder v3.1] Move: 30,-10
+[2025-12-22 14:29:42] [Pro Input Recorder v3.1] Move: 25,-6
+[2025-12-22 14:29:42] [Pro Input Recorder v3.1] Move: 19,-5
+[2025-12-22 14:29:42] [Pro Input Recorder v3.1] Move: 12,-5
+[2025-12-22 14:29:42] [Pro Input Recorder v3.1] Move: 11,-3
+[2025-12-22 14:29:42] [Pro Input Recorder v3.1] Move: 14,-7
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -15,-6
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -11,-4
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -14,-1
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -14,-1
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -17,0
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -19,0
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -19,0
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -16,0
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -22,3
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -19,7
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -18,3
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -17,5
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -12,3
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -12,4
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -18,5
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -13,4
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -13,4
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -12,5
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -11,10
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: -13,7
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: 11,-1
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: 14,0
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: 11,0
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: 16,0
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: 15,0
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: 20,-1
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: 17,-4
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: 16,-1
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: 14,-3
+[2025-12-22 14:29:43] [Pro Input Recorder v3.1] Move: 12,-2
+[2025-12-22 14:29:44] [Pro Input Recorder v3.1] Move: 11,-5
+[2025-12-22 14:29:44] [Pro Input Recorder v3.1] Move: 12,-5
+[2025-12-22 14:29:44] [Pro Input Recorder v3.1] Move: 14,-5
+[2025-12-22 14:29:44] [Pro Input Recorder v3.1] Move: 12,-2
+[2025-12-22 14:29:44] [Pro Input Recorder v3.1] Move: 14,-2
+[2025-12-22 14:29:44] [Pro Input Recorder v3.1] Move: 14,-4
+[2025-12-22 14:29:44] [Pro Input Recorder v3.1] Move: 11,-3
+[2025-12-22 14:29:44] [Pro Input Recorder v3.1] Move: 13,-4
+[2025-12-22 14:29:44] [Pro Input Recorder v3.1] Move: 16,0
+[2025-12-22 14:29:44] [Pro Input Recorder v3.1] Move: 12,-1
+[2025-12-22 14:29:44] [Pro Input Recorder v3.1] Move: 11,-4
+[2025-12-22 14:29:44] [Pro Input Recorder v3.1] Move: 12,-5
+[2025-12-22 14:29:44] [Pro Input Recorder v3.1] Move: 11,-2
+[2025-12-22 14:29:44] [Pro Input Recorder v3.1] Move: 11,-4
+[2025-12-22 14:29:44] [Pro Input Recorder v3.1] Mouse: Left Click
+[2025-12-22 14:29:45] [Pro Input Recorder v3.1] Move: -15,-12
+[2025-12-22 14:29:45] [Pro Input Recorder v3.1] Move: -11,-7
+[2025-12-22 14:29:45] [Pro Input Recorder v3.1] Move: -11,-7
+[2025-12-22 14:29:45] [Pro Input Recorder v3.1] Move: -11,-6
+[2025-12-22 14:29:45] [Pro Input Recorder v3.1] Move: -13,-9
+[2025-12-22 14:29:45] [Pro Input Recorder v3.1] Move: -19,-11
+[2025-12-22 14:29:45] [Pro Input Recorder v3.1] Move: -13,-7
+[2025-12-22 14:29:45] [Pro Input Recorder v3.1] Move: -12,-6
+[2025-12-22 14:29:45] [Pro Input Recorder v3.1] Move: -13,-7
+[2025-12-22 14:29:45] [Pro Input Recorder v3.1] Move: -14,-10
+[2025-12-22 14:29:45] [Pro Input Recorder v3.1] Move: -19,-12
+[2025-12-22 14:29:45] [Pro Input Recorder v3.1] Move: -17,-2
+[2025-12-22 14:29:45] [Pro Input Recorder v3.1] Move: -11,3
+[2025-12-22 14:29:46] [Pro Input Recorder v3.1] Special Key: 160
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -20,10
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -25,18
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -43,27
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -40,23
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -48,28
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -62,34
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -57,38
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -64,41
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -65,45
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -62,41
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -81,54
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -74,45
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -80,42
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -74,48
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -61,40
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -61,46
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -61,41
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -51,36
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -47,31
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -35,31
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -30,30
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -29,29
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -15,23
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -19,28
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -12,20
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -10,19
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -7,19
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -7,13
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -9,14
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -8,11
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -10,13
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -20,19
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -11,9
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -11,8
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -14,7
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -13,7
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -13,6
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -16,1
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -12,3
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -15,0
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -18,0
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -15,0
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -18,0
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -17,0
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -15,0
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -13,0
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -17,0
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -14,0
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -12,0
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -12,0
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -11,0
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -17,0
+[2025-12-22 14:29:47] [Pro Input Recorder v3.1] Move: -11,-3
+[2025-12-22 14:29:48] [Pro Input Recorder v3.1] Move: -2,-13
+[2025-12-22 14:29:48] [Pro Input Recorder v3.1] Move: 2,-11
+[2025-12-22 14:29:48] [Pro Input Recorder v3.1] Move: 8,-13
+[2025-12-22 14:29:48] [Pro Input Recorder v3.1] Move: 11,-15
+[2025-12-22 14:29:48] [Pro Input Recorder v3.1] Move: 14,-14
+[2025-12-22 14:29:48] [Pro Input Recorder v3.1] Move: 12,-12
+[2025-12-22 14:29:48] [Pro Input Recorder v3.1] Move: 12,-10
+[2025-12-22 14:29:48] [Pro Input Recorder v3.1] Move: 13,-10
+[2025-12-22 14:29:48] [Pro Input Recorder v3.1] Move: 12,-9
+[2025-12-22 14:29:48] [Pro Input Recorder v3.1] Move: 3,-11
+[2025-12-22 14:29:48] [Pro Input Recorder v3.1] Mouse: Left Click
+[2025-12-22 14:29:48] [Google Gemini - Google Chrome] Mouse: Left Click
+[2025-12-22 14:29:48] [Google Gemini - Google Chrome] Move: 9,-14
+[2025-12-22 14:29:49] [Google Gemini - Google Chrome] Key: n
+[2025-12-22 14:29:49] [Google Gemini - Google Chrome] Key: i
+[2025-12-22 14:29:49] [Google Gemini - Google Chrome] Key: h
+[2025-12-22 14:29:49] [Google Gemini - Google Chrome] Key: a
+[2025-12-22 14:29:50] [Google Gemini - Google Chrome] Key: o
+[2025-12-22 14:29:50] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:29:51] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:29:51] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:29:51] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:29:51] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:29:51] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 23,-14
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 55,-19
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 77,-23
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 102,-33
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 106,-44
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 109,-48
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 100,-50
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 91,-61
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 81,-56
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 64,-44
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 46,-41
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 29,-27
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 24,-37
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 16,-33
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 18,-30
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 15,-23
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 9,-16
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 7,-14
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 6,-13
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 7,-19
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 11,-11
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 11,-2
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 12,0
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 18,2
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 15,0
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 17,-2
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 15,-4
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 21,-9
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 17,-8
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 23,-9
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 28,-12
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 31,-14
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 41,-13
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 46,-13
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 38,-9
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 46,-16
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 41,-11
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 35,-10
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 30,-9
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 26,-3
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 18,-4
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 12,-1
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 11,-2
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 18,0
+[2025-12-22 14:29:52] [Google Gemini - Google Chrome] Move: 17,3
+[2025-12-22 14:29:53] [Google Gemini - Google Chrome] Move: 24,9
+[2025-12-22 14:29:53] [Google Gemini - Google Chrome] Move: 19,6
+[2025-12-22 14:29:53] [Google Gemini - Google Chrome] Move: 21,4
+[2025-12-22 14:29:53] [Google Gemini - Google Chrome] Move: 16,2
+[2025-12-22 14:29:53] [Google Gemini - Google Chrome] Move: 13,2
+[2025-12-22 14:29:53] [Google Gemini - Google Chrome] Move: 12,1
+[2025-12-22 14:29:53] [Google Gemini - Google Chrome] Move: 11,2
+[2025-12-22 14:29:53] [Google Gemini - Google Chrome] Move: 17,0
+[2025-12-22 14:29:53] [Google Gemini - Google Chrome] Move: 11,0
+[2025-12-22 14:29:53] [Google Gemini - Google Chrome] Move: 11,-1
+[2025-12-22 14:29:53] [Google Gemini - Google Chrome] Mouse: Left Click
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -12,5
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -20,6
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -18,2
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -24,8
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -40,7
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -38,11
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -38,11
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -40,9
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -31,14
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -33,10
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -31,14
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -31,12
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -31,16
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -26,9
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -28,14
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -24,12
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -16,11
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -13,11
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -11,10
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -14,20
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -4,11
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -9,20
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -5,21
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -5,19
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -6,19
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -11,20
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -16,15
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -15,9
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -11,7
+[2025-12-22 14:29:53] [Pro Input Recorder v3.1] Move: -15,7
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -19,7
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -26,9
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -30,11
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -43,8
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -27,7
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -41,13
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -41,11
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -43,9
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -38,2
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -51,2
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -44,0
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -35,0
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -36,6
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -28,2
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -17,4
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -16,0
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -12,0
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -24,-5
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -14,-8
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -20,-15
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -20,-13
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -12,-6
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -15,0
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: -11,-9
+[2025-12-22 14:29:54] [Pro Input Recorder v3.1] Move: 3,-11
+[2025-12-22 14:29:56] [Pro Input Recorder v3.1] Move: -3,11
+[2025-12-22 14:29:56] [Pro Input Recorder v3.1] Move: -6,14
+[2025-12-22 14:29:56] [Pro Input Recorder v3.1] Move: -5,11
+[2025-12-22 14:29:56] [Pro Input Recorder v3.1] Move: -5,11
+[2025-12-22 14:29:56] [Pro Input Recorder v3.1] Move: -9,14
+[2025-12-22 14:29:56] [Pro Input Recorder v3.1] Move: -13,17
+[2025-12-22 14:29:56] [Pro Input Recorder v3.1] Move: -10,14
+[2025-12-22 14:29:56] [Pro Input Recorder v3.1] Move: -17,19
+[2025-12-22 14:29:56] [Pro Input Recorder v3.1] Move: -22,23
+[2025-12-22 14:29:56] [Pro Input Recorder v3.1] Move: -23,23
+[2025-12-22 14:29:56] [Pro Input Recorder v3.1] Move: -25,21
+[2025-12-22 14:29:56] [Pro Input Recorder v3.1] Move: -25,21
+[2025-12-22 14:29:56] [Pro Input Recorder v3.1] Move: -25,19
+[2025-12-22 14:29:56] [Pro Input Recorder v3.1] Move: -22,20
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -15,14
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -19,22
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -13,21
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -10,14
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -10,12
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -8,11
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -7,12
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -5,11
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -6,18
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -4,14
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -3,11
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -3,13
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -7,13
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -7,11
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -14,11
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -15,5
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -14,2
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -13,6
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -11,9
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -8,12
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -12,18
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -13,19
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -17,17
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -19,16
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -14,12
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Move: -14,12
+[2025-12-22 14:29:57] [Pro Input Recorder v3.1] Mouse: Left Click
+[2025-12-22 14:29:58] [Unknown Window] Move: 2,-13
+[2025-12-22 14:29:58] [Unknown Window] Move: 8,-13
+[2025-12-22 14:29:58] [Unknown Window] Move: 6,-11
+[2025-12-22 14:29:58] [Unknown Window] Move: 7,-12
+[2025-12-22 14:29:58] [Unknown Window] Move: 12,-11
+[2025-12-22 14:29:58] [Unknown Window] Move: 17,-11
+[2025-12-22 14:29:58] [Unknown Window] Move: 12,-7
+[2025-12-22 14:29:58] [Unknown Window] Move: 11,-4
+[2025-12-22 14:29:58] [Unknown Window] Move: 19,-8
+[2025-12-22 14:29:58] [Unknown Window] Move: 11,-5
+[2025-12-22 14:29:58] [Unknown Window] Move: 16,-4
+[2025-12-22 14:29:58] [Unknown Window] Move: 19,-6
+[2025-12-22 14:29:58] [Unknown Window] Move: 11,-6
+[2025-12-22 14:29:58] [Unknown Window] Move: 14,-7
+[2025-12-22 14:29:58] [Unknown Window] Move: 12,-7
+[2025-12-22 14:29:58] [Unknown Window] Move: -12,-9
+[2025-12-22 14:29:58] [Unknown Window] Move: -13,0
+[2025-12-22 14:29:58] [Unknown Window] Move: -13,1
+[2025-12-22 14:29:58] [Unknown Window] Mouse: Left Click
+[2025-12-22 14:29:59] [毕业论文 - 文件资源管理器] Move: -17,14
+[2025-12-22 14:29:59] [毕业论文 - 文件资源管理器] Move: -14,5
+[2025-12-22 14:29:59] [毕业论文 - 文件资源管理器] Move: -13,6
+[2025-12-22 14:29:59] [毕业论文 - 文件资源管理器] Move: -15,5
+[2025-12-22 14:29:59] [毕业论文 - 文件资源管理器] Move: -15,1
+[2025-12-22 14:29:59] [毕业论文 - 文件资源管理器] Move: -14,0
+[2025-12-22 14:29:59] [毕业论文 - 文件资源管理器] Move: -14,2
+[2025-12-22 14:29:59] [毕业论文 - 文件资源管理器] Move: -12,4
+[2025-12-22 14:29:59] [毕业论文 - 文件资源管理器] Move: -13,3
+[2025-12-22 14:29:59] [毕业论文 - 文件资源管理器] Move: -13,13
+[2025-12-22 14:29:59] [毕业论文 - 文件资源管理器] Move: -6,13
+[2025-12-22 14:29:59] [毕业论文 - 文件资源管理器] Move: -6,11
+[2025-12-22 14:29:59] [毕业论文 - 文件资源管理器] Move: -5,13
+[2025-12-22 14:29:59] [毕业论文 - 文件资源管理器] Move: 0,14
+[2025-12-22 14:29:59] [毕业论文 - 文件资源管理器] Move: -1,13
+[2025-12-22 14:30:00] [毕业论文 - 文件资源管理器] Move: -8,-11
+[2025-12-22 14:30:00] [毕业论文 - 文件资源管理器] Move: -7,-12
+[2025-12-22 14:30:00] [毕业论文 - 文件资源管理器] Move: -9,-19
+[2025-12-22 14:30:00] [毕业论文 - 文件资源管理器] Move: -12,-20
+[2025-12-22 14:30:00] [毕业论文 - 文件资源管理器] Move: -13,-18
+[2025-12-22 14:30:00] [毕业论文 - 文件资源管理器] Move: -13,-16
+[2025-12-22 14:30:00] [毕业论文 - 文件资源管理器] Move: -12,-12
+[2025-12-22 14:30:00] [毕业论文 - 文件资源管理器] Move: -12,-9
+[2025-12-22 14:30:00] [毕业论文 - 文件资源管理器] Move: -15,-11
+[2025-12-22 14:30:00] [毕业论文 - 文件资源管理器] Move: -13,-6
+[2025-12-22 14:30:00] [毕业论文 - 文件资源管理器] Mouse: Left Click
+[2025-12-22 14:30:00] [monitor - 文件资源管理器] Move: 1,-14
+[2025-12-22 14:30:00] [monitor - 文件资源管理器] Move: 14,-7
+[2025-12-22 14:30:00] [monitor - 文件资源管理器] Move: 14,-4
+[2025-12-22 14:30:00] [monitor - 文件资源管理器] Move: 29,-7
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 46,-7
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 76,-7
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 75,-5
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 86,-11
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 99,-11
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 112,-5
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 106,-8
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 108,-8
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 102,-6
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 105,-2
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 108,-3
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 93,-8
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 92,-5
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 71,-11
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 59,-10
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 61,-8
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 50,-8
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 47,-5
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 45,-8
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 34,-5
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 23,-3
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 32,-5
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 23,-3
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 20,-1
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 18,-4
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 14,-1
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 12,-1
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 20,-4
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 18,-2
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 15,-4
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 12,-5
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 13,-8
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 13,-10
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 15,-16
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 16,-19
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 8,-11
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 7,-13
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 5,-17
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 3,-16
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 0,-19
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 0,-16
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 0,-17
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 0,-16
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 0,-15
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 1,-12
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 2,-12
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 2,-13
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 2,-14
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 1,-11
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 1,-15
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 0,-14
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: -7,-17
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 13,1
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 14,4
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 19,0
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 24,0
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 33,0
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 41,0
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 39,-4
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 37,-7
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 47,-4
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 46,-15
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 44,-11
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 43,-14
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 36,-12
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 30,-10
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 26,-12
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 21,-12
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 13,-7
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 15,-10
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 6,-12
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: -5,-12
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 0,-11
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 13,-8
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 11,-3
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 14,-2
+[2025-12-22 14:30:01] [monitor - 文件资源管理器] Move: 14,0
+[2025-12-22 14:30:02] [monitor - 文件资源管理器] Move: 17,-1
+[2025-12-22 14:30:02] [monitor - 文件资源管理器] Move: 16,-2
+[2025-12-22 14:30:02] [monitor - 文件资源管理器] Move: 15,0
+[2025-12-22 14:30:02] [monitor - 文件资源管理器] Move: 17,0
+[2025-12-22 14:30:02] [monitor - 文件资源管理器] Move: 14,-2
+[2025-12-22 14:30:02] [monitor - 文件资源管理器] Move: 11,0
+[2025-12-22 14:30:02] [monitor - 文件资源管理器] Move: 11,0
+[2025-12-22 14:30:02] [monitor - 文件资源管理器] Move: 11,0
+[2025-12-22 14:30:02] [monitor - 文件资源管理器] Move: -13,-4
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -11,-2
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -17,6
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -16,6
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -29,14
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -26,13
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -29,17
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -42,19
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -39,17
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -47,17
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -51,12
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -45,12
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -46,13
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -46,13
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -38,9
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -37,7
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -22,6
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -26,5
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -14,5
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -12,3
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -13,6
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -8,11
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -9,13
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -11,11
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -11,7
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -13,13
+[2025-12-22 14:30:03] [monitor - 文件资源管理器] Move: -11,9
+[2025-12-22 14:30:05] [monitor - 文件资源管理器] Move: 11,-9
+[2025-12-22 14:30:05] [monitor - 文件资源管理器] Move: 12,-10
+[2025-12-22 14:30:05] [monitor - 文件资源管理器] Move: 9,-13
+[2025-12-22 14:30:05] [monitor - 文件资源管理器] Move: 5,-13
+[2025-12-22 14:30:05] [monitor - 文件资源管理器] Move: 6,-14
+[2025-12-22 14:30:05] [monitor - 文件资源管理器] Move: 1,-11
+[2025-12-22 14:30:06] [monitor - 文件资源管理器] Move: 0,-11
+[2025-12-22 14:30:06] [monitor - 文件资源管理器] Move: -1,15
+[2025-12-22 14:30:06] [monitor - 文件资源管理器] Move: 0,11
+[2025-12-22 14:30:06] [monitor - 文件资源管理器] Move: 0,13
+[2025-12-22 14:30:06] [monitor - 文件资源管理器] Move: 0,13
+[2025-12-22 14:30:06] [monitor - 文件资源管理器] Move: 0,11
+[2025-12-22 14:30:06] [monitor - 文件资源管理器] Move: -2,15
+[2025-12-22 14:30:06] [monitor - 文件资源管理器] Move: -2,13
+[2025-12-22 14:30:06] [monitor - 文件资源管理器] Move: 0,12
+[2025-12-22 14:30:06] [monitor - 文件资源管理器] Move: -2,13
+[2025-12-22 14:30:06] [monitor - 文件资源管理器] Move: -2,14
+[2025-12-22 14:30:06] [monitor - 文件资源管理器] Move: -3,13
+[2025-12-22 14:30:06] [monitor - 文件资源管理器] Move: -1,12
+[2025-12-22 14:30:06] [monitor - 文件资源管理器] Move: -1,12
+[2025-12-22 14:30:06] [monitor - 文件资源管理器] Move: 0,11
+[2025-12-22 14:30:06] [monitor - 文件资源管理器] Move: 0,12
+[2025-12-22 14:30:06] [monitor - 文件资源管理器] Move: 13,7
+[2025-12-22 14:30:07] [monitor - 文件资源管理器] Move: 8,-11
+[2025-12-22 14:30:07] [monitor - 文件资源管理器] Move: 0,-11
+[2025-12-22 14:30:07] [monitor - 文件资源管理器] Move: 0,-12
+[2025-12-22 14:30:07] [monitor - 文件资源管理器] Move: -2,-13
+[2025-12-22 14:30:07] [monitor - 文件资源管理器] Move: -4,-12
+[2025-12-22 14:30:07] [monitor - 文件资源管理器] Move: -4,-11
+[2025-12-22 14:30:07] [monitor - 文件资源管理器] Move: -4,-11
+[2025-12-22 14:30:07] [monitor - 文件资源管理器] Move: -6,-16
+[2025-12-22 14:30:07] [monitor - 文件资源管理器] Move: -5,-11
+[2025-12-22 14:30:07] [monitor - 文件资源管理器] Move: -7,-16
+[2025-12-22 14:30:07] [monitor - 文件资源管理器] Move: -5,-16
+[2025-12-22 14:30:07] [monitor - 文件资源管理器] Move: -5,-13
+[2025-12-22 14:30:07] [monitor - 文件资源管理器] Move: -2,-12
+[2025-12-22 14:30:07] [monitor - 文件资源管理器] Move: -3,-12
+[2025-12-22 14:30:07] [monitor - 文件资源管理器] Move: -3,-11
+[2025-12-22 14:30:08] [monitor - 文件资源管理器] Move: -4,-11
+[2025-12-22 14:30:08] [monitor - 文件资源管理器] Move: -3,-11
+[2025-12-22 14:30:10] [monitor - 文件资源管理器] Move: 13,2
+[2025-12-22 14:30:10] [monitor - 文件资源管理器] Move: 10,17
+[2025-12-22 14:30:10] [monitor - 文件资源管理器] Move: 10,20
+[2025-12-22 14:30:10] [monitor - 文件资源管理器] Move: 7,18
+[2025-12-22 14:30:10] [monitor - 文件资源管理器] Move: 4,15
+[2025-12-22 14:30:10] [monitor - 文件资源管理器] Move: 4,14
+[2025-12-22 14:30:10] [monitor - 文件资源管理器] Move: 5,12
+[2025-12-22 14:30:10] [monitor - 文件资源管理器] Move: 0,12
+[2025-12-22 14:30:11] [monitor - 文件资源管理器] Move: 1,14
+[2025-12-22 14:30:11] [monitor - 文件资源管理器] Move: 4,13
+[2025-12-22 14:30:11] [monitor - 文件资源管理器] Move: 5,13
+[2025-12-22 14:30:11] [monitor - 文件资源管理器] Move: 4,12
+[2025-12-22 14:30:11] [monitor - 文件资源管理器] Move: 6,17
+[2025-12-22 14:30:11] [monitor - 文件资源管理器] Move: 9,21
+[2025-12-22 14:30:11] [monitor - 文件资源管理器] Move: 5,11
+[2025-12-22 14:30:11] [monitor - 文件资源管理器] Move: 3,11
+[2025-12-22 14:30:11] [monitor - 文件资源管理器] Move: 8,17
+[2025-12-22 14:30:11] [monitor - 文件资源管理器] Move: 2,11
+[2025-12-22 14:30:11] [monitor - 文件资源管理器] Move: 4,12
+[2025-12-22 14:30:11] [monitor - 文件资源管理器] Move: 5,11
+[2025-12-22 14:30:11] [monitor - 文件资源管理器] Move: 7,11
+[2025-12-22 14:30:11] [monitor - 文件资源管理器] Move: 8,12
+[2025-12-22 14:30:12] [monitor - 文件资源管理器] Move: -11,0
+[2025-12-22 14:30:12] [monitor - 文件资源管理器] Move: -11,-3
+[2025-12-22 14:30:12] [monitor - 文件资源管理器] Move: -14,-8
+[2025-12-22 14:30:12] [monitor - 文件资源管理器] Move: -14,-5
+[2025-12-22 14:30:12] [monitor - 文件资源管理器] Move: -12,-3
+[2025-12-22 14:30:12] [monitor - 文件资源管理器] Move: -5,-11
+[2025-12-22 14:30:12] [monitor - 文件资源管理器] Move: 0,-11
+[2025-12-22 14:30:12] [monitor - 文件资源管理器] Move: -1,-11
+[2025-12-22 14:30:12] [monitor - 文件资源管理器] Move: -2,-11
+[2025-12-22 14:30:12] [monitor - 文件资源管理器] Move: 0,-11
+[2025-12-22 14:30:12] [monitor - 文件资源管理器] Move: -12,5
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 12,-5
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 11,-10
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 14,-10
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 14,-11
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 14,-10
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 15,-6
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 15,-5
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 19,-5
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 14,-3
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 12,-1
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 17,-2
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 11,-2
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 14,-2
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 13,-1
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 13,0
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 13,0
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 12,0
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 12,0
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 13,0
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 11,0
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 11,0
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 17,-2
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: 13,-2
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: -1,-11
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: -12,-6
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: -19,-9
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: -11,-2
+[2025-12-22 14:30:13] [monitor - 文件资源管理器] Move: -12,-3
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -16,-5
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -18,-3
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -18,-4
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -14,-1
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -13,0
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -13,0
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -11,0
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -17,0
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -13,0
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -14,-1
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -13,-3
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -12,-9
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -13,-10
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -13,-13
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -10,-13
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -9,-12
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -10,-15
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -4,-11
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -3,-11
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -15,3
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -9,13
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: -6,16
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: 0,13
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: 0,11
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: 2,11
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: 3,12
+[2025-12-22 14:30:14] [monitor - 文件资源管理器] Move: 9,11
+[2025-12-22 14:30:15] [monitor - 文件资源管理器] Move: 8,13
+[2025-12-22 14:30:15] [monitor - 文件资源管理器] Move: 9,12
+[2025-12-22 14:30:15] [monitor - 文件资源管理器] Move: 9,-15
+[2025-12-22 14:30:15] [monitor - 文件资源管理器] Move: 1,-16
+[2025-12-22 14:30:15] [monitor - 文件资源管理器] Move: 0,-12
+[2025-12-22 14:30:15] [monitor - 文件资源管理器] Move: 3,-15
+[2025-12-22 14:30:15] [monitor - 文件资源管理器] Move: 0,-14
+[2025-12-22 14:30:15] [monitor - 文件资源管理器] Move: 0,-12
+[2025-12-22 14:30:15] [monitor - 文件资源管理器] Move: -9,-12
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -11,-7
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -11,1
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -11,-8
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -8,-11
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -14,16
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -11,7
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -15,9
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -21,12
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -24,15
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -30,17
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -29,15
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -34,20
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -35,18
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -36,17
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -33,12
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -39,15
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -41,13
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -41,13
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -37,9
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -41,11
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -45,9
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -43,11
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -40,8
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -44,13
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -41,13
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -35,11
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -35,8
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -44,14
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -47,11
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -41,10
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -52,10
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -46,4
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -45,4
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -55,2
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -47,0
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -58,0
+[2025-12-22 14:30:16] [monitor - 文件资源管理器] Move: -54,0
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -51,0
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -41,3
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -27,5
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -25,2
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -16,2
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -19,3
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -15,2
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -15,0
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -18,0
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -14,0
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -15,-1
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -15,-1
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -13,-2
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -14,-4
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -19,-2
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -13,0
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -12,-1
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -11,-4
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -14,-7
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -12,-2
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -11,0
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -8,12
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: -7,11
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: 5,-15
+[2025-12-22 14:30:17] [monitor - 文件资源管理器] Move: 0,-11
+[2025-12-22 14:30:18] [monitor - 文件资源管理器] Move: -1,16
+[2025-12-22 14:30:18] [monitor - 文件资源管理器] Move: -6,18
+[2025-12-22 14:30:18] [monitor - 文件资源管理器] Move: -7,19
+[2025-12-22 14:30:18] [monitor - 文件资源管理器] Move: -2,19
+[2025-12-22 14:30:18] [monitor - 文件资源管理器] Move: -4,16
+[2025-12-22 14:30:18] [monitor - 文件资源管理器] Move: -1,15
+[2025-12-22 14:30:18] [monitor - 文件资源管理器] Move: -4,19
+[2025-12-22 14:30:18] [monitor - 文件资源管理器] Move: -6,12
+[2025-12-22 14:30:18] [monitor - 文件资源管理器] Move: -13,13
+[2025-12-22 14:30:18] [monitor - 文件资源管理器] Move: -5,11
+[2025-12-22 14:30:18] [monitor - 文件资源管理器] Mouse: Left Click
+[2025-12-22 14:30:19] [Google Gemini - Google Chrome] Key: z
+[2025-12-22 14:30:19] [Google Gemini - Google Chrome] Key: e
+[2025-12-22 14:30:19] [Google Gemini - Google Chrome] Key: n
+[2025-12-22 14:30:19] [Google Gemini - Google Chrome] Key: m
+[2025-12-22 14:30:20] [Google Gemini - Google Chrome] Key:  
+[2025-12-22 14:30:21] [Google Gemini - Google Chrome] Key: q
+[2025-12-22 14:30:21] [Google Gemini - Google Chrome] Key: i
+[2025-12-22 14:30:22] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:30:22] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:30:22] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:30:22] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:30:23] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:30:23] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:30:23] [Google Gemini - Google Chrome] Key: g
+[2025-12-22 14:30:23] [Google Gemini - Google Chrome] Key: e
+[2025-12-22 14:30:23] [Google Gemini - Google Chrome] Key: i
+[2025-12-22 14:30:23] [Google Gemini - Google Chrome] Key: w
+[2025-12-22 14:30:24] [Google Gemini - Google Chrome] Key:  
+[2025-12-22 14:30:24] [Google Gemini - Google Chrome] Key: y
+[2025-12-22 14:30:24] [Google Gemini - Google Chrome] Key: i
+[2025-12-22 14:30:25] [Google Gemini - Google Chrome] Key: g
+[2025-12-22 14:30:25] [Google Gemini - Google Chrome] Key:  
+[2025-12-22 14:30:26] [Google Gemini - Google Chrome] Key: y
+[2025-12-22 14:30:26] [Google Gemini - Google Chrome] Key: i
+[2025-12-22 14:30:26] [Google Gemini - Google Chrome] Key: j
+[2025-12-22 14:30:26] [Google Gemini - Google Chrome] Key: i
+[2025-12-22 14:30:26] [Google Gemini - Google Chrome] Key: a
+[2025-12-22 14:30:26] [Google Gemini - Google Chrome] Key: n
+[2025-12-22 14:30:27] [Google Gemini - Google Chrome] Key:  
+[2025-12-22 14:30:27] [Google Gemini - Google Chrome] Key: q
+[2025-12-22 14:30:27] [Google Gemini - Google Chrome] Key: i
+[2025-12-22 14:30:27] [Google Gemini - Google Chrome] Key: n
+[2025-12-22 14:30:27] [Google Gemini - Google Chrome] Key: g
+[2025-12-22 14:30:28] [Google Gemini - Google Chrome] Key: c
+[2025-12-22 14:30:28] [Google Gemini - Google Chrome] Key: h
+[2025-12-22 14:30:28] [Google Gemini - Google Chrome] Key: u
+[2025-12-22 14:30:28] [Google Gemini - Google Chrome] Key:  
+[2025-12-22 14:30:30] [Google Gemini - Google Chrome] Key: o
+[2025-12-22 14:30:31] [Google Gemini - Google Chrome] Key: b
+[2025-12-22 14:30:31] [Google Gemini - Google Chrome] Key: h
+[2025-12-22 14:30:31] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:30:32] [Google Gemini - Google Chrome] Key: j
+[2025-12-22 14:30:32] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:30:32] [Google Gemini - Google Chrome] Key: z
+[2025-12-22 14:30:32] [Google Gemini - Google Chrome] Key: h
+[2025-12-22 14:30:33] [Google Gemini - Google Chrome] Key: o
+[2025-12-22 14:30:33] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:30:33] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:30:33] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:30:33] [Google Gemini - Google Chrome] Key: z
+[2025-12-22 14:30:34] [Google Gemini - Google Chrome] Key: h
+[2025-12-22 14:30:34] [Google Gemini - Google Chrome] Key: i
+[2025-12-22 14:30:34] [Google Gemini - Google Chrome] Key: l
+[2025-12-22 14:30:34] [Google Gemini - Google Chrome] Key: e
+[2025-12-22 14:30:34] [Google Gemini - Google Chrome] Key: i
+[2025-12-22 14:30:35] [Google Gemini - Google Chrome] Key:  
+[2025-12-22 14:30:35] [Google Gemini - Google Chrome] Key: d
+[2025-12-22 14:30:35] [Google Gemini - Google Chrome] Key: a
+[2025-12-22 14:30:35] [Google Gemini - Google Chrome] Key: i
+[2025-12-22 14:30:35] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:30:35] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:30:36] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:30:36] [Google Gemini - Google Chrome] Key: w
+[2025-12-22 14:30:36] [Google Gemini - Google Chrome] Key: e
+[2025-12-22 14:30:36] [Google Gemini - Google Chrome] Key: n
+[2025-12-22 14:30:36] [Google Gemini - Google Chrome] Key: j
+[2025-12-22 14:30:36] [Google Gemini - Google Chrome] Key: i
+[2025-12-22 14:30:36] [Google Gemini - Google Chrome] Key: a
+[2025-12-22 14:30:37] [Google Gemini - Google Chrome] Key: n
+[2025-12-22 14:30:37] [Google Gemini - Google Chrome] Key:  
+[2025-12-22 14:30:37] [Google Gemini - Google Chrome] Key: d
+[2025-12-22 14:30:37] [Google Gemini - Google Chrome] Key: e
+[2025-12-22 14:30:37] [Google Gemini - Google Chrome] Key:  
+[2025-12-22 14:30:38] [Google Gemini - Google Chrome] Key: j
+[2025-12-22 14:30:38] [Google Gemini - Google Chrome] Key: i
+[2025-12-22 14:30:39] [Google Gemini - Google Chrome] Key: a
+[2025-12-22 14:30:39] [Google Gemini - Google Chrome] Key: o
+[2025-12-22 14:30:39] [Google Gemini - Google Chrome] Key: b
+[2025-12-22 14:30:40] [Google Gemini - Google Chrome] Key: e
+[2025-12-22 14:30:40] [Google Gemini - Google Chrome] Key: n
+[2025-12-22 14:30:40] [Google Gemini - Google Chrome] Key:  
+[2025-12-22 14:30:41] [Google Gemini - Google Chrome] Key: ,
+[2025-12-22 14:30:41] [Google Gemini - Google Chrome] Key: w
+[2025-12-22 14:30:41] [Google Gemini - Google Chrome] Key: o
+[2025-12-22 14:30:42] [Google Gemini - Google Chrome] Key:  
+[2025-12-22 14:30:42] [Google Gemini - Google Chrome] Key: m
+[2025-12-22 14:30:42] [Google Gemini - Google Chrome] Key: e
+[2025-12-22 14:30:42] [Google Gemini - Google Chrome] Key: i
+[2025-12-22 14:30:42] [Google Gemini - Google Chrome] Key: c
+[2025-12-22 14:30:43] [Google Gemini - Google Chrome] Key:  
+[2025-12-22 14:30:43] [Google Gemini - Google Chrome] Key: d
+[2025-12-22 14:30:43] [Google Gemini - Google Chrome] Key: o
+[2025-12-22 14:30:43] [Google Gemini - Google Chrome] Key: u
+[2025-12-22 14:30:43] [Google Gemini - Google Chrome] Key: y
+[2025-12-22 14:30:43] [Google Gemini - Google Chrome] Key: a
+[2025-12-22 14:30:44] [Google Gemini - Google Chrome] Key: o
+[2025-12-22 14:30:44] [Google Gemini - Google Chrome] Key:  
+[2025-12-22 14:30:44] [Google Gemini - Google Chrome] Key: c
+[2025-12-22 14:30:44] [Google Gemini - Google Chrome] Key: h
+[2025-12-22 14:30:45] [Google Gemini - Google Chrome] Key: o
+[2025-12-22 14:30:45] [Google Gemini - Google Chrome] Key: n
+[2025-12-22 14:30:45] [Google Gemini - Google Chrome] Key: g
+[2025-12-22 14:30:45] [Google Gemini - Google Chrome] Key: i
+[2025-12-22 14:30:45] [Google Gemini - Google Chrome] Key: x
+[2025-12-22 14:30:45] [Google Gemini - Google Chrome] Key: n
+[2025-12-22 14:30:46] [Google Gemini - Google Chrome] Key:  
+[2025-12-22 14:30:46] [Google Gemini - Google Chrome] Key: s
+[2025-12-22 14:30:46] [Google Gemini - Google Chrome] Key: h
+[2025-12-22 14:30:46] [Google Gemini - Google Chrome] Key: e
+[2025-12-22 14:30:46] [Google Gemini - Google Chrome] Key: n
+[2025-12-22 14:30:46] [Google Gemini - Google Chrome] Key: g
+[2025-12-22 14:30:46] [Google Gemini - Google Chrome] Key: c
+[2025-12-22 14:30:47] [Google Gemini - Google Chrome] Key:  
+[2025-12-22 14:30:47] [Google Gemini - Google Chrome] Key: d
+[2025-12-22 14:30:47] [Google Gemini - Google Chrome] Key: e
+[2025-12-22 14:30:47] [Google Gemini - Google Chrome] Key:  
+[2025-12-22 14:30:47] [Google Gemini - Google Chrome] Key: 
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 17,-16
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 35,-42
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 44,-49
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 48,-55
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 56,-54
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 45,-55
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 53,-50
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 46,-43
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 37,-43
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 37,-36
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 34,-39
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 29,-29
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 32,-25
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 27,-20
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 27,-15
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 18,-8
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 14,-2
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 18,-2
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 15,0
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 17,0
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 16,0
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 13,0
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 14,2
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 21,9
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 19,16
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 11,11
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 11,11
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 20,22
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 26,27
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 36,31
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 18,21
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 20,22
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 15,12
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 25,21
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 21,16
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 21,16
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 16,5
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 17,0
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 11,-1
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 12,-1
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 17,-1
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 16,0
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 19,0
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 22,0
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 25,0
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 30,0
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 30,0
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 25,-2
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 21,-4
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 22,-6
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 20,-8
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 17,-5
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 17,-9
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 23,-9
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 17,-6
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 26,-12
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 21,-4
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 28,-3
+[2025-12-22 14:30:48] [Google Gemini - Google Chrome] Move: 30,0
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: 38,0
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: 30,0
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: 31,-2
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: 27,0
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: 22,0
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: 19,0
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: 22,0
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: 16,0
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: 25,0
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: 26,2
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: 34,6
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: 40,11
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: 36,10
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: 40,11
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: 33,11
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: 32,8
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: 30,8
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: 14,4
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: 11,1
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -13,-13
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -19,-4
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -14,-2
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -12,-2
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -14,-6
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -18,-10
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -20,-18
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -14,-12
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -16,-18
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -20,-23
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -24,-33
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -21,-30
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -23,-30
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -23,-28
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -22,-26
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -21,-21
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -15,-13
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -12,-10
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -15,-10
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -11,-8
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -11,-4
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -12,-4
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -14,-4
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -13,-6
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -12,-6
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -16,-11
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -14,-7
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -18,-9
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -17,-6
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -14,-7
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -14,-5
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -15,-7
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Move: -12,-5
+[2025-12-22 14:30:49] [Google Gemini - Google Chrome] Mouse: Left Click
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 2,16
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 8,20
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 13,26
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 20,38
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 20,34
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 32,44
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 29,38
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 32,37
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 24,33
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 23,28
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 17,22
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 11,16
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 7,12
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 7,11
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 9,16
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 8,14
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 11,21
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 5,12
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: -13,10
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: -18,6
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: -19,8
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: -18,7
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: -11,2
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: -21,7
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: -17,3
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: -11,1
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 2,-13
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 6,-11
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 6,-11
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 8,-16
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 7,-17
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 5,-17
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 2,-14
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 3,-12
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 0,-12
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 4,-15
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 0,-14
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 0,-18
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 1,-17
+[2025-12-22 14:30:50] [Pro Input Recorder v3.1] Move: 0,-12
+[2025-12-22 14:30:51] [Pro Input Recorder v3.1] Move: 3,-15
+[2025-12-22 14:30:51] [Pro Input Recorder v3.1] Move: 2,-14
+[2025-12-22 14:30:51] [Pro Input Recorder v3.1] Move: 1,-11
+[2025-12-22 14:30:51] [Pro Input Recorder v3.1] Move: 11,-2
+[2025-12-22 14:30:51] [Pro Input Recorder v3.1] Mouse: Left Click
+[2025-12-22 14:30:51] [monitor - 文件资源管理器] Mouse: Left Click
+[2025-12-22 14:30:51] [monitor - 文件资源管理器] Move: 14,10
+[2025-12-22 14:30:51] [monitor - 文件资源管理器] Move: 12,16
+[2025-12-22 14:30:51] [monitor - 文件资源管理器] Move: 6,11
+[2025-12-22 14:30:51] [monitor - 文件资源管理器] Move: 8,11
+[2025-12-22 14:30:51] [monitor - 文件资源管理器] Move: 7,13
+[2025-12-22 14:30:51] [monitor - 文件资源管理器] Move: 7,11
+[2025-12-22 14:30:51] [monitor - 文件资源管理器] Move: 5,11
+[2025-12-22 14:30:51] [monitor - 文件资源管理器] Move: 10,12
+[2025-12-22 14:30:51] [monitor - 文件资源管理器] Move: 13,18
+[2025-12-22 14:30:51] [monitor - 文件资源管理器] Move: 9,15
+[2025-12-22 14:30:51] [monitor - 文件资源管理器] Move: 7,13
+[2025-12-22 14:30:51] [monitor - 文件资源管理器] Move: 3,13
+[2025-12-22 14:30:51] [monitor - 文件资源管理器] Move: 3,15
+[2025-12-22 14:30:51] [monitor - 文件资源管理器] Move: 2,13
+[2025-12-22 14:30:52] [monitor - 文件资源管理器] Move: 1,11
+[2025-12-22 14:30:52] [monitor - 文件资源管理器] Move: -2,14
+[2025-12-22 14:30:52] [monitor - 文件资源管理器] Move: -6,11
+[2025-12-22 14:30:52] [monitor - 文件资源管理器] Move: 0,-11
+[2025-12-22 14:30:52] [monitor - 文件资源管理器] Move: 0,-11
+[2025-12-22 14:30:53] [logs - 文件资源管理器] Move: -10,21
+[2025-12-22 14:30:53] [logs - 文件资源管理器] Move: 0,16
+[2025-12-22 14:30:53] [logs - 文件资源管理器] Move: 0,19
+[2025-12-22 14:30:53] [logs - 文件资源管理器] Move: 0,14
+[2025-12-22 14:30:53] [logs - 文件资源管理器] Move: -3,12
+[2025-12-22 14:30:53] [logs - 文件资源管理器] Move: -1,13
+[2025-12-22 14:30:53] [logs - 文件资源管理器] Move: -2,13
+[2025-12-22 14:30:53] [logs - 文件资源管理器] Move: 1,11
+[2025-12-22 14:30:54] [logs - 文件资源管理器] Move: 6,11
+[2025-12-22 14:30:54] [logs - 文件资源管理器] Mouse: Left Click
+[2025-12-22 14:30:54] [logs - 文件资源管理器] Mouse: Left Click
+[2025-12-22 14:30:54] [logs - 文件资源管理器] Move: 11,-8
+[2025-12-22 14:30:54] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: 13,-8
+[2025-12-22 14:30:54] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: 15,-10
+[2025-12-22 14:30:54] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: 14,-9
+[2025-12-22 14:30:54] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: 19,-13
+[2025-12-22 14:30:54] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: 19,-16
+[2025-12-22 14:30:54] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: 11,-6
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -3,-14
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -12,-7
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -17,-8
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -28,-3
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -22,0
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -28,-3
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -33,0
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -49,0
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -48,0
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -60,0
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -70,0
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -68,0
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -75,0
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -87,0
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -86,0
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -87,3
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -78,2
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -93,5
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -115,5
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -104,0
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -105,3
+[2025-12-22 14:30:55] [*我现在想改成这个需求： 要记录键盘操作，鼠标操作，单独做个桌面端软件， - Notepad] Move: -99,5
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -88,3
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -82,2
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -68,3
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -57,0
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -48,0
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -47,0
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -31,0
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -24,0
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -24,0
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -24,-6
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -28,-10
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -24,-6
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -20,-5
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -21,-8
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -22,-9
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -15,-4
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -19,-9
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -14,-10
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -12,-10
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -7,-13
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -18,-21
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -20,-16
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -14,-10
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -14,-5
+[2025-12-22 14:30:55] [2025-12-22_142928.txt - Notepad] Move: -17,-8
+[2025-12-22 14:30:56] [2025-12-22_142928.txt - Notepad] Move: -14,-7
+[2025-12-22 14:30:56] [2025-12-22_142928.txt - Notepad] Move: -7,-11
+[2025-12-22 14:30:56] [2025-12-22_142928.txt - Notepad] Move: -13,-2
+[2025-12-22 14:30:56] [2025-12-22_142928.txt - Notepad] Move: 0,14
+[2025-12-22 14:30:56] [2025-12-22_142928.txt - Notepad] Move: 5,11
+[2025-12-22 14:30:56] [2025-12-22_142928.txt - Notepad] Move: 14,18
+[2025-12-22 14:30:56] [2025-12-22_142928.txt - Notepad] Move: 15,4
+[2025-12-22 14:30:56] [2025-12-22_142928.txt - Notepad] Move: 11,-6
+[2025-12-22 14:30:56] [2025-12-22_142928.txt - Notepad] Move: 11,-6
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 11,-6
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 11,-3
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 12,-2
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 12,-1
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 13,0
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 15,0
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 11,-2
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 11,-1
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 12,-3
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 14,-2
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 17,-2
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 15,-2
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 15,-2
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 17,-3
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 13,-2
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 15,-2
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 17,-2
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 13,-3
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 17,-8
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 14,-6
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 12,-4
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 11,-5
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 11,-7
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 11,-8
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 13,-8
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 14,-9
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 12,-9
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 11,-10
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 16,-11
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 11,-9
+[2025-12-22 14:30:57] [2025-12-22_142928.txt - Notepad] Move: 11,-10
+[2025-12-22 14:30:58] [2025-12-22_142928.txt - Notepad] Mouse: Left Click
+[2025-12-22 14:30:58] [2025-12-22_142928.txt - Notepad] Move: 4,12
+[2025-12-22 14:30:58] [2025-12-22_142928.txt - Notepad] Move: -4,12
+[2025-12-22 14:30:58] [2025-12-22_142928.txt - Notepad] Move: -1,12
+[2025-12-22 14:30:58] [2025-12-22_142928.txt - Notepad] Move: -2,11
+[2025-12-22 14:30:59] [2025-12-22_142928.txt - Notepad] Move: -1,-11
+[2025-12-22 14:30:59] [2025-12-22_142928.txt - Notepad] Move: 1,-12
+[2025-12-22 14:31:00] [2025-12-22_142928.txt - Notepad] Move: 0,-11
+[2025-12-22 14:31:02] [2025-12-22_142928.txt - Notepad] Move: 0,13
+[2025-12-22 14:31:02] [2025-12-22_142928.txt - Notepad] Move: 0,14
+[2025-12-22 14:31:02] [2025-12-22_142928.txt - Notepad] Move: -1,11
+[2025-12-22 14:31:02] [2025-12-22_142928.txt - Notepad] Move: 0,13
+[2025-12-22 14:31:02] [2025-12-22_142928.txt - Notepad] Move: -1,12
+[2025-12-22 14:31:03] [2025-12-22_142928.txt - Notepad] Move: -1,12
+[2025-12-22 14:31:03] [2025-12-22_142928.txt - Notepad] Move: 0,14
+[2025-12-22 14:31:03] [2025-12-22_142928.txt - Notepad] Move: 1,12
+[2025-12-22 14:31:03] [2025-12-22_142928.txt - Notepad] Move: 0,12
+[2025-12-22 14:31:03] [2025-12-22_142928.txt - Notepad] Move: -1,12
+[2025-12-22 14:31:04] [2025-12-22_142928.txt - Notepad] Move: -1,11
+[2025-12-22 14:31:04] [2025-12-22_142928.txt - Notepad] Move: 0,11
+[2025-12-22 14:31:05] [2025-12-22_142928.txt - Notepad] Move: 0,13
+[2025-12-22 14:31:05] [2025-12-22_142928.txt - Notepad] Move: -2,11
+[2025-12-22 14:31:05] [2025-12-22_142928.txt - Notepad] Move: 0,13
+[2025-12-22 14:31:06] [2025-12-22_142928.txt - Notepad] Move: 0,11
+[2025-12-22 14:31:06] [2025-12-22_142928.txt - Notepad] Move: 0,11
+[2025-12-22 14:31:06] [2025-12-22_142928.txt - Notepad] Move: -8,-11
+[2025-12-22 14:31:08] [2025-12-22_142928.txt - Notepad] Move: 0,11
+[2025-12-22 14:31:08] [2025-12-22_142928.txt - Notepad] Move: 0,11
+[2025-12-22 14:31:08] [2025-12-22_142928.txt - Notepad] Move: -1,11
+[2025-12-22 14:31:08] [2025-12-22_142928.txt - Notepad] Move: 0,11
+[2025-12-22 14:31:08] [2025-12-22_142928.txt - Notepad] Move: -2,12
+[2025-12-22 14:31:08] [2025-12-22_142928.txt - Notepad] Move: -1,11
+[2025-12-22 14:31:09] [2025-12-22_142928.txt - Notepad] Move: -1,11
+[2025-12-22 14:31:09] [2025-12-22_142928.txt - Notepad] Move: -2,11
+[2025-12-22 14:31:09] [2025-12-22_142928.txt - Notepad] Move: -1,11
+[2025-12-22 14:31:09] [2025-12-22_142928.txt - Notepad] Move: 0,11
+[2025-12-22 14:31:09] [2025-12-22_142928.txt - Notepad] Move: -1,12
+[2025-12-22 14:31:09] [2025-12-22_142928.txt - Notepad] Move: 0,12
+[2025-12-22 14:31:09] [2025-12-22_142928.txt - Notepad] Move: -2,12
+[2025-12-22 14:31:09] [2025-12-22_142928.txt - Notepad] Move: -1,11
+[2025-12-22 14:31:09] [2025-12-22_142928.txt - Notepad] Move: 0,11
+[2025-12-22 14:31:09] [2025-12-22_142928.txt - Notepad] Move: 0,12
+[2025-12-22 14:31:10] [2025-12-22_142928.txt - Notepad] Move: 0,12
+[2025-12-22 14:31:10] [2025-12-22_142928.txt - Notepad] Move: -1,12
+[2025-12-22 14:31:11] [2025-12-22_142928.txt - Notepad] Move: -2,11
+[2025-12-22 14:31:15] [2025-12-22_142928.txt - Notepad] Move: 1,12
+[2025-12-22 14:31:15] [2025-12-22_142928.txt - Notepad] Move: 0,11
+[2025-12-22 14:31:16] [2025-12-22_142928.txt - Notepad] Move: 3,-11
+[2025-12-22 14:31:17] [2025-12-22_142928.txt - Notepad] Move: 0,-11
+[2025-12-22 14:31:17] [2025-12-22_142928.txt - Notepad] Move: 0,-12
+[2025-12-22 14:31:17] [2025-12-22_142928.txt - Notepad] Move: 0,-14
+[2025-12-22 14:31:17] [2025-12-22_142928.txt - Notepad] Move: -4,-12
+[2025-12-22 14:31:17] [2025-12-22_142928.txt - Notepad] Move: -10,-20
+[2025-12-22 14:31:17] [2025-12-22_142928.txt - Notepad] Move: -15,-18
+[2025-12-22 14:31:17] [2025-12-22_142928.txt - Notepad] Move: -11,-10
+[2025-12-22 14:31:17] [2025-12-22_142928.txt - Notepad] Move: -12,-11
+[2025-12-22 14:31:17] [2025-12-22_142928.txt - Notepad] Move: -22,-18
+[2025-12-22 14:31:17] [2025-12-22_142928.txt - Notepad] Move: -17,-18
+[2025-12-22 14:31:17] [2025-12-22_142928.txt - Notepad] Move: -17,-13
+[2025-12-22 14:31:17] [2025-12-22_142928.txt - Notepad] Move: -8,-11
+[2025-12-22 14:31:17] [2025-12-22_142928.txt - Notepad] Move: -12,-14
+[2025-12-22 14:31:17] [2025-12-22_142928.txt - Notepad] Move: -13,-19
+[2025-12-22 14:31:17] [2025-12-22_142928.txt - Notepad] Move: -13,-20
+[2025-12-22 14:31:17] [2025-12-22_142928.txt - Notepad] Move: -16,-17
+[2025-12-22 14:31:18] [2025-12-22_142928.txt - Notepad] Move: -10,-13
+[2025-12-22 14:31:18] [2025-12-22_142928.txt - Notepad] Move: 2,-12
+[2025-12-22 14:31:18] [2025-12-22_142928.txt - Notepad] Move: 9,-13
+[2025-12-22 14:31:18] [2025-12-22_142928.txt - Notepad] Move: 11,-11
+[2025-12-22 14:31:18] [2025-12-22_142928.txt - Notepad] Move: 13,-16
+[2025-12-22 14:31:18] [2025-12-22_142928.txt - Notepad] Move: 10,-20
+[2025-12-22 14:31:18] [2025-12-22_142928.txt - Notepad] Move: 7,-22
+[2025-12-22 14:31:18] [2025-12-22_142928.txt - Notepad] Move: 6,-19
+[2025-12-22 14:31:18] [2025-12-22_142928.txt - Notepad] Move: 7,-14
+[2025-12-22 14:31:18] [2025-12-22_142928.txt - Notepad] Move: 10,-12
+[2025-12-22 14:31:18] [2025-12-22_142928.txt - Notepad] Move: 12,-14
+[2025-12-22 14:31:18] [2025-12-22_142928.txt - Notepad] Move: 8,-12
+[2025-12-22 14:31:18] [2025-12-22_142928.txt - Notepad] Move: 6,-11
+[2025-12-22 14:31:18] [2025-12-22_142928.txt - Notepad] Move: 9,-14
+[2025-12-22 14:31:18] [2025-12-22_142928.txt - Notepad] Move: 11,-12
+[2025-12-22 14:31:18] [2025-12-22_142928.txt - Notepad] Move: 10,-11
+[2025-12-22 14:31:18] [2025-12-22_142928.txt - Notepad] Move: 8,-12
+[2025-12-22 14:31:18] [2025-12-22_142928.txt - Notepad] Move: 9,-11
+[2025-12-22 14:31:19] [2025-12-22_142928.txt - Notepad] Move: 6,-11
+[2025-12-22 14:31:19] [2025-12-22_142928.txt - Notepad] Move: 5,-11
+[2025-12-22 14:31:19] [2025-12-22_142928.txt - Notepad] Move: 7,-11
+[2025-12-22 14:31:19] [2025-12-22_142928.txt - Notepad] Move: 4,-13
+[2025-12-22 14:31:19] [2025-12-22_142928.txt - Notepad] Move: 6,-11
+[2025-12-22 14:31:19] [2025-12-22_142928.txt - Notepad] Move: 6,-11
+[2025-12-22 14:31:19] [2025-12-22_142928.txt - Notepad] Move: 11,-12
+[2025-12-22 14:31:19] [2025-12-22_142928.txt - Notepad] Move: 4,-11
+[2025-12-22 14:31:19] [2025-12-22_142928.txt - Notepad] Mouse: Left Click
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 0,13
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: -9,19
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: -4,11
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: -4,12
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: -1,13
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: -1,19
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: -3,17
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 0,20
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 0,24
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 5,39
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 16,51
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 16,48
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 13,41
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 17,36
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 12,34
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 11,26
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 15,23
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 8,14
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 8,14
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 7,14
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 10,14
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 8,11
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 14,20
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 7,15
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: -12,0
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: -17,-5
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: -12,-2
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: -18,-6
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: -10,-13
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 0,-14
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 3,-20
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 3,-12
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 0,-14
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: 0,-21
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: -3,-11
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: -4,-12
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: -7,-17
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: -6,-13
+[2025-12-22 14:31:20] [logs - 文件资源管理器] Move: -8,-14
+[2025-12-22 14:31:21] [logs - 文件资源管理器] Move: -10,-12
+[2025-12-22 14:31:21] [logs - 文件资源管理器] Move: -12,-10
+[2025-12-22 14:31:21] [logs - 文件资源管理器] Move: -11,-2
+[2025-12-22 14:31:22] [logs - 文件资源管理器] Move: -7,-11
+[2025-12-22 14:31:22] [logs - 文件资源管理器] Move: 13,-5
+[2025-12-22 14:31:22] [logs - 文件资源管理器] Move: 13,-2
+[2025-12-22 14:31:22] [logs - 文件资源管理器] Move: 12,0
+[2025-12-22 14:31:22] [logs - 文件资源管理器] Move: 17,0
+[2025-12-22 14:31:22] [logs - 文件资源管理器] Move: 15,-1
+[2025-12-22 14:31:22] [logs - 文件资源管理器] Move: 16,-3
+[2025-12-22 14:31:22] [logs - 文件资源管理器] Move: 12,-2
+[2025-12-22 14:31:22] [logs - 文件资源管理器] Move: 14,0
+[2025-12-22 14:31:22] [logs - 文件资源管理器] Move: 12,0
+[2025-12-22 14:31:22] [logs - 文件资源管理器] Move: 11,0
+[2025-12-22 14:31:23] [logs - 文件资源管理器] Move: 1,-12
+[2025-12-22 14:31:24] [logs - 文件资源管理器] Move: -2,-11
+[2025-12-22 14:31:24] [logs - 文件资源管理器] Move: 12,-5
+[2025-12-22 14:31:24] [logs - 文件资源管理器] Move: 12,-4
+[2025-12-22 14:31:24] [logs - 文件资源管理器] Move: 11,-1
+[2025-12-22 14:31:24] [logs - 文件资源管理器] Move: 11,-2
+[2025-12-22 14:31:24] [logs - 文件资源管理器] Move: 13,0
+[2025-12-22 14:31:24] [logs - 文件资源管理器] Move: 13,-4
+[2025-12-22 14:31:24] [logs - 文件资源管理器] Move: 12,-1
+[2025-12-22 14:31:24] [logs - 文件资源管理器] Move: 11,-4
+[2025-12-22 14:31:24] [logs - 文件资源管理器] Move: 12,-2
+[2025-12-22 14:31:24] [logs - 文件资源管理器] Move: 11,-3
+[2025-12-22 14:31:24] [logs - 文件资源管理器] Move: 12,-5
+[2025-12-22 14:31:24] [logs - 文件资源管理器] Move: 11,-5
+[2025-12-22 14:31:24] [logs - 文件资源管理器] Move: 11,-7
+[2025-12-22 14:31:24] [logs - 文件资源管理器] Move: 11,-6
+[2025-12-22 14:31:25] [logs - 文件资源管理器] Move: 12,1
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -5,16
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -22,8
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -17,5
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -17,2
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -28,0
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -30,0
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -41,0
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -38,0
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -37,0
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -31,0
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -24,0
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -16,0
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -14,0
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -14,3
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -12,1
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -12,0
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -15,0
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -18,0
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -14,0
+[2025-12-22 14:31:28] [logs - 文件资源管理器] Move: -15,0
+[2025-12-22 14:31:29] [logs - 文件资源管理器] Move: 15,-6
+[2025-12-22 14:31:29] [logs - 文件资源管理器] Move: 13,0
+[2025-12-22 14:31:29] [logs - 文件资源管理器] Move: 11,0
+[2025-12-22 14:31:29] [logs - 文件资源管理器] Move: 15,0
+[2025-12-22 14:31:29] [logs - 文件资源管理器] Move: 15,0
+[2025-12-22 14:31:29] [logs - 文件资源管理器] Move: 11,0
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 13,-6
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 15,-9
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 16,-5
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 11,-4
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 12,-2
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 13,-4
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 11,-3
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 19,-6
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 16,-5
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 17,-4
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 13,-4
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 13,-4
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 20,-6
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 12,-1
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 16,-5
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 13,-2
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 13,-4
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 15,-9
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 12,-5
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 14,-5
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 12,-5
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 11,-9
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 13,-9
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 12,-5
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 11,-1
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 12,-3
+[2025-12-22 14:31:30] [logs - 文件资源管理器] Move: 11,-5
+[2025-12-22 14:31:31] [logs - 文件资源管理器] Move: 11,3
+[2025-12-22 14:31:31] [logs - 文件资源管理器] Move: 4,11
+[2025-12-22 14:31:31] [logs - 文件资源管理器] Move: 0,13
+[2025-12-22 14:31:31] [logs - 文件资源管理器] Move: -4,13
+[2025-12-22 14:31:31] [logs - 文件资源管理器] Move: -9,11
+[2025-12-22 14:31:31] [logs - 文件资源管理器] Move: -12,9
+[2025-12-22 14:31:31] [logs - 文件资源管理器] Move: -14,8
+[2025-12-22 14:31:31] [logs - 文件资源管理器] Move: -15,6
+[2025-12-22 14:31:31] [logs - 文件资源管理器] Move: -14,6
+[2025-12-22 14:31:31] [logs - 文件资源管理器] Move: -15,6
+[2025-12-22 14:31:31] [logs - 文件资源管理器] Move: -11,4
+[2025-12-22 14:31:31] [logs - 文件资源管理器] Move: -11,-9
+[2025-12-22 14:31:31] [logs - 文件资源管理器] Move: -11,-4
+[2025-12-22 14:31:31] [logs - 文件资源管理器] Move: -11,-5
+[2025-12-22 14:31:32] [logs - 文件资源管理器] Move: 6,-12
+[2025-12-22 14:31:32] [logs - 文件资源管理器] Move: 11,-7
+[2025-12-22 14:31:32] [logs - 文件资源管理器] Move: 11,-9
+[2025-12-22 14:31:32] [logs - 文件资源管理器] Move: 15,-14
+[2025-12-22 14:31:32] [logs - 文件资源管理器] Move: 12,-14
+[2025-12-22 14:31:32] [logs - 文件资源管理器] Move: 11,-12
+[2025-12-22 14:31:32] [logs - 文件资源管理器] Move: 13,-15
+[2025-12-22 14:31:32] [logs - 文件资源管理器] Move: 11,-13
+[2025-12-22 14:31:32] [logs - 文件资源管理器] Move: 8,-12
+[2025-12-22 14:31:32] [logs - 文件资源管理器] Move: 13,-16
+[2025-12-22 14:31:32] [logs - 文件资源管理器] Move: 11,-13
+[2025-12-22 14:31:32] [logs - 文件资源管理器] Move: 10,-12
+[2025-12-22 14:31:32] [logs - 文件资源管理器] Move: 10,-13
+[2025-12-22 14:31:32] [logs - 文件资源管理器] Move: 3,-11
+[2025-12-22 14:31:33] [logs - 文件资源管理器] Move: -12,-10
+[2025-12-22 14:31:33] [logs - 文件资源管理器] Move: -11,8
+[2025-12-22 14:31:33] [logs - 文件资源管理器] Mouse: Left Click
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -9,12
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -10,13
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -8,14
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -6,13
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -9,12
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -4,12
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -7,19
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -7,14
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -6,12
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -8,14
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -7,11
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -8,11
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -8,12
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -18,19
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -13,18
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -10,17
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -10,13
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -7,12
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -3,14
+[2025-12-22 14:31:34] [Google Gemini - Google Chrome] Move: -8,14
+[2025-12-22 14:31:35] [Google Gemini - Google Chrome] Move: -9,-12
+[2025-12-22 14:31:35] [Google Gemini - Google Chrome] Move: 3,-12
+[2025-12-22 14:31:35] [Google Gemini - Google Chrome] Move: 4,-11
+[2025-12-22 14:31:35] [Google Gemini - Google Chrome] Move: -2,-11
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 19,0
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 31,10
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 40,11
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 48,13
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 60,15
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 65,19
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 70,18
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 71,20
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 74,18
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 69,10
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 76,10
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 67,13
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 48,7
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 49,6
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 43,7
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 34,7
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 30,8
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 15,7
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 25,7
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 17,7
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 18,8
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 13,4
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 16,6
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 15,6
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 12,2
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 21,7
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 16,3
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 14,2
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 14,3
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 12,7
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: 0,14
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: -3,14
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: -7,14
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: -6,11
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: -8,14
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: -8,11
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: -12,-14
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: -3,-11
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: -9,-12
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: -12,-7
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: -11,-2
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: -11,0
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: -16,0
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: -17,4
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: -22,4
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: -12,0
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: -14,0
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: -22,1
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: -17,3
+[2025-12-22 14:31:36] [Google Gemini - Google Chrome] Move: -12,4
+[2025-12-22 14:31:37] [Google Gemini - Google Chrome] Move: -7,12
+[2025-12-22 14:31:37] [Google Gemini - Google Chrome] Move: 5,11
+[2025-12-22 14:31:37] [Google Gemini - Google Chrome] Move: -4,-11
+[2025-12-22 14:31:37] [Google Gemini - Google Chrome] Move: -11,-4
+[2025-12-22 14:31:37] [Google Gemini - Google Chrome] Mouse: Left Click
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: -16,-14
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: -23,-21
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: -14,-12
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: -17,-11
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: -19,-15
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: -20,-14
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: -16,-9
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: -13,-8
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: -14,-11
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: -4,-11
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 5,-13
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 10,-13
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 11,-8
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 16,-10
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 23,-14
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 13,-8
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 17,-13
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 18,-16
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 18,-23
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 16,-24
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 21,-40
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 19,-44
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 16,-55
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 19,-62
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 14,-54
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 15,-49
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 20,-44
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 11,-28
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 13,-26
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 9,-21
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 6,-11
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: 5,-14
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: -16,-11
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: -11,-2
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: -14,-1
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: -13,0
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: -11,5
+[2025-12-22 14:31:37] [main.ico - monitor - Visual Studio Code] Move: -15,6
+[2025-12-22 14:31:38] [main.ico - monitor - Visual Studio Code] Move: -11,-4
+[2025-12-22 14:31:38] [main.ico - monitor - Visual Studio Code] Move: -11,-9
+[2025-12-22 14:31:38] [main.ico - monitor - Visual Studio Code] Move: -12,-3
+[2025-12-22 14:31:38] [main.ico - monitor - Visual Studio Code] Mouse: Left Click
+[2025-12-22 14:31:38] [main.ico - monitor - Visual Studio Code] Move: -11,-2
+[2025-12-22 14:31:38] [main.ico - monitor - Visual Studio Code] Move: -2,11
+[2025-12-22 14:31:38] [main.ico - monitor - Visual Studio Code] Move: -1,14
+[2025-12-22 14:31:38] [main.ico - monitor - Visual Studio Code] Move: -1,11
+[2025-12-22 14:31:38] [main.ico - monitor - Visual Studio Code] Move: -2,12
+[2025-12-22 14:31:38] [main.ico - monitor - Visual Studio Code] Move: -1,11
+[2025-12-22 14:31:38] [main.ico - monitor - Visual Studio Code] Move: 0,13
+[2025-12-22 14:31:39] [main.ico - monitor - Visual Studio Code] Move: -5,13
+[2025-12-22 14:31:39] [main.ico - monitor - Visual Studio Code] Move: -5,12
+[2025-12-22 14:31:39] [main.ico - monitor - Visual Studio Code] Move: -5,12
+[2025-12-22 14:31:39] [main.ico - monitor - Visual Studio Code] Move: -12,12
+[2025-12-22 14:31:39] [main.ico - monitor - Visual Studio Code] Move: -11,2
+[2025-12-22 14:31:39] [main.ico - monitor - Visual Studio Code] Move: -13,-7
+[2025-12-22 14:31:39] [main.ico - monitor - Visual Studio Code] Move: -13,-13
+[2025-12-22 14:31:39] [main.ico - monitor - Visual Studio Code] Move: -7,-11
+[2025-12-22 14:31:39] [main.ico - monitor - Visual Studio Code] Move: -2,-11
+[2025-12-22 14:31:39] [main.ico - monitor - Visual Studio Code] Move: -1,-11
+[2025-12-22 14:31:39] [main.ico - monitor - Visual Studio Code] Move: -2,-14
+[2025-12-22 14:31:40] [main.ico - monitor - Visual Studio Code] Key: c
+[2025-12-22 14:31:41] [main.ico - monitor - Visual Studio Code] Move: -19,-2
+[2025-12-22 14:31:41] [main.ico - monitor - Visual Studio Code] Move: -51,0
+[2025-12-22 14:31:41] [main.ico - monitor - Visual Studio Code] Move: -60,0
+[2025-12-22 14:31:41] [main.ico - monitor - Visual Studio Code] Move: -64,0
+[2025-12-22 14:31:41] [main.ico - monitor - Visual Studio Code] Move: -106,-8
+[2025-12-22 14:31:41] [main.ico - monitor - Visual Studio Code] Move: -109,-5
+[2025-12-22 14:31:41] [main.ico - monitor - Visual Studio Code] Move: -98,-8
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -120,-14
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -108,-6
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -107,-19
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -103,-13
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -90,-14
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -78,-2
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -54,0
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -51,0
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -31,-2
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -30,-5
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -29,-4
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -21,-6
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -15,-6
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -16,-4
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 12,4
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 18,1
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 21,0
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 11,0
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 12,-2
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 11,-2
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 16,-7
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -17,8
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -23,3
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -31,0
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -37,0
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -38,0
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -27,0
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -24,0
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -23,5
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -25,2
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -17,4
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -13,2
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -12,1
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -16,1
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -11,0
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -16,0
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -12,0
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -14,-3
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -16,-1
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -16,-3
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -23,-12
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -31,-9
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -37,-11
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -34,-4
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -17,7
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 12,2
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 21,-2
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 27,3
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 44,0
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 68,0
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 68,0
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 85,2
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 83,12
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 89,11
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 89,13
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 81,21
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 69,7
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 55,17
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 48,4
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 27,8
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 26,3
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 15,4
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 14,1
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 15,2
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 12,3
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 11,2
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: -5,11
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 0,15
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 5,18
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 11,11
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 8,13
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 5,19
+[2025-12-22 14:31:42] [main.ico - monitor - Visual Studio Code] Move: 1,14
+[2025-12-22 14:31:43] [main.ico - monitor - Visual Studio Code] Move: 0,20
+[2025-12-22 14:31:43] [main.ico - monitor - Visual Studio Code] Move: -3,14
+[2025-12-22 14:31:43] [main.ico - monitor - Visual Studio Code] Move: -7,18
+[2025-12-22 14:31:43] [main.ico - monitor - Visual Studio Code] Move: -6,16
+[2025-12-22 14:31:43] [main.ico - monitor - Visual Studio Code] Move: -10,13
+[2025-12-22 14:31:43] [main.ico - monitor - Visual Studio Code] Move: -11,14
+[2025-12-22 14:31:43] [main.ico - monitor - Visual Studio Code] Move: -9,12
+[2025-12-22 14:31:43] [main.ico - monitor - Visual Studio Code] Move: -7,15
+[2025-12-22 14:31:44] [main.ico - monitor - Visual Studio Code] Key: l
+[2025-12-22 14:31:45] [main.ico - monitor - Visual Studio Code] Key: e
+[2025-12-22 14:31:45] [main.ico - monitor - Visual Studio Code] Key: a
+[2025-12-22 14:31:45] [main.ico - monitor - Visual Studio Code] Key: n
+[2025-12-22 14:31:46] [main.ico - monitor - Visual Studio Code] Key: .
+[2025-12-22 14:31:46] [main.ico - monitor - Visual Studio Code] Key: b
+[2025-12-22 14:31:46] [main.ico - monitor - Visual Studio Code] Key: a
+[2025-12-22 14:31:47] [main.ico - monitor - Visual Studio Code] Key: t
+[2025-12-22 14:31:47] [main.ico - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:31:48] [clean.bat - monitor - Visual Studio Code] Move: 32,9
+[2025-12-22 14:31:48] [clean.bat - monitor - Visual Studio Code] Move: 24,0
+[2025-12-22 14:31:48] [clean.bat - monitor - Visual Studio Code] Move: 31,0
+[2025-12-22 14:31:48] [clean.bat - monitor - Visual Studio Code] Move: 13,0
+[2025-12-22 14:31:48] [clean.bat - monitor - Visual Studio Code] Move: 15,-4
+[2025-12-22 14:31:48] [clean.bat - monitor - Visual Studio Code] Move: 11,-2
+[2025-12-22 14:31:48] [clean.bat - monitor - Visual Studio Code] Move: 15,0
+[2025-12-22 14:31:48] [clean.bat - monitor - Visual Studio Code] Move: 19,-3
+[2025-12-22 14:31:48] [clean.bat - monitor - Visual Studio Code] Move: 13,-3
+[2025-12-22 14:31:48] [clean.bat - monitor - Visual Studio Code] Move: 14,0
+[2025-12-22 14:31:48] [clean.bat - monitor - Visual Studio Code] Move: 13,0
+[2025-12-22 14:31:48] [clean.bat - monitor - Visual Studio Code] Move: 12,-1
+[2025-12-22 14:31:48] [clean.bat - monitor - Visual Studio Code] Move: 12,0
+[2025-12-22 14:31:48] [clean.bat - monitor - Visual Studio Code] Special Key: 162
+[2025-12-22 14:31:48] [clean.bat - monitor - Visual Studio Code] Move: -1,-11
+[2025-12-22 14:31:48] [clean.bat - monitor - Visual Studio Code] Move: -5,-12
+[2025-12-22 14:31:48] [clean.bat - monitor - Visual Studio Code] Key: v
+[2025-12-22 14:31:49] [● clean.bat - monitor - Visual Studio Code] Key: s
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 15,12
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 19,19
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 13,11
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 17,14
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 14,10
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 17,14
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 27,17
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 26,15
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 36,19
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 34,19
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 39,20
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 39,17
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 39,17
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 41,15
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 27,16
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 28,11
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 30,18
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 24,17
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 27,16
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 27,19
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 27,17
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 28,21
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 24,14
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 24,16
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 14,9
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 11,10
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 5,12
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 3,11
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 5,14
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 5,16
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 5,14
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 9,19
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 8,15
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 7,13
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 8,11
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 9,12
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 15,21
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 8,11
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 11,14
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 13,15
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 26,20
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 27,21
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 25,16
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 21,10
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 14,7
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 18,6
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 16,4
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 23,6
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 17,0
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 14,0
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 15,-10
+[2025-12-22 14:31:49] [clean.bat - monitor - Visual Studio Code] Move: 9,-11
+[2025-12-22 14:31:50] [clean.bat - monitor - Visual Studio Code] Move: 11,-11
+[2025-12-22 14:31:50] [clean.bat - monitor - Visual Studio Code] Move: 15,-5
+[2025-12-22 14:31:50] [clean.bat - monitor - Visual Studio Code] Move: 15,-8
+[2025-12-22 14:31:50] [clean.bat - monitor - Visual Studio Code] Move: 6,-11
+[2025-12-22 14:31:50] [clean.bat - monitor - Visual Studio Code] Move: 2,-11
+[2025-12-22 14:31:50] [clean.bat - monitor - Visual Studio Code] Mouse: Left Click
+[2025-12-22 14:31:50] [clean.bat - monitor - Visual Studio Code] Move: -16,-13
+[2025-12-22 14:31:50] [clean.bat - monitor - Visual Studio Code] Move: -18,-11
+[2025-12-22 14:31:50] [clean.bat - monitor - Visual Studio Code] Move: -11,-5
+[2025-12-22 14:31:50] [clean.bat - monitor - Visual Studio Code] Move: -11,-7
+[2025-12-22 14:31:50] [clean.bat - monitor - Visual Studio Code] Move: -23,-14
+[2025-12-22 14:31:50] [clean.bat - monitor - Visual Studio Code] Move: -11,-5
+[2025-12-22 14:31:50] [clean.bat - monitor - Visual Studio Code] Move: -20,-12
+[2025-12-22 14:31:50] [clean.bat - monitor - Visual Studio Code] Move: -16,-9
+[2025-12-22 14:31:50] [clean.bat - monitor - Visual Studio Code] Move: -12,-7
+[2025-12-22 14:31:51] [clean.bat - monitor - Visual Studio Code] Key: l
+[2025-12-22 14:31:51] [clean.bat - monitor - Visual Studio Code] Key: =
+[2025-12-22 14:31:51] [clean.bat - monitor - Visual Studio Code] Key: c
+[2025-12-22 14:31:52] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:31:52] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:31:52] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:31:52] [clean.bat - monitor - Visual Studio Code] Key: c
+[2025-12-22 14:31:54] [clean.bat - monitor - Visual Studio Code] Key: l
+[2025-12-22 14:31:54] [clean.bat - monitor - Visual Studio Code] Key: e
+[2025-12-22 14:31:54] [clean.bat - monitor - Visual Studio Code] Key: a
+[2025-12-22 14:31:54] [clean.bat - monitor - Visual Studio Code] Key: n
+[2025-12-22 14:31:57] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:31:57] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:31:57] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:31:57] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:31:57] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:31:57] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:31:57] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:31:58] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:31:58] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:31:58] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:31:58] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:31:58] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:31:58] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:31:58] [clean.bat - monitor - Visual Studio Code] Key: l
+[2025-12-22 14:31:58] [clean.bat - monitor - Visual Studio Code] Key: s
+[2025-12-22 14:31:59] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:32:00] [clean.bat - monitor - Visual Studio Code] Key: c
+[2025-12-22 14:32:00] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:32:01] [clean.bat - monitor - Visual Studio Code] Key: .
+[2025-12-22 14:32:01] [clean.bat - monitor - Visual Studio Code] Key: /
+[2025-12-22 14:32:01] [clean.bat - monitor - Visual Studio Code] Key: c
+[2025-12-22 14:32:02] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:32:04] [clean.bat - monitor - Visual Studio Code] Special Key: 38
+[2025-12-22 14:32:05] [clean.bat - monitor - Visual Studio Code] Key: l
+[2025-12-22 14:32:05] [clean.bat - monitor - Visual Studio Code] Key: 	
+[2025-12-22 14:32:05] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:32:06] [clean.bat - monitor - Visual Studio Code] Move: 14,-7
+[2025-12-22 14:32:06] [clean.bat - monitor - Visual Studio Code] Move: 12,7
+[2025-12-22 14:32:06] [clean.bat - monitor - Visual Studio Code] Move: 17,9
+[2025-12-22 14:32:06] [clean.bat - monitor - Visual Studio Code] Move: 15,8
+[2025-12-22 14:32:06] [clean.bat - monitor - Visual Studio Code] Move: 16,11
+[2025-12-22 14:32:06] [clean.bat - monitor - Visual Studio Code] Move: 14,10
+[2025-12-22 14:32:06] [clean.bat - monitor - Visual Studio Code] Move: 16,13
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 8,11
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 2,15
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 2,11
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 3,11
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 10,-11
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 18,5
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 23,6
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 17,4
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 23,3
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 31,5
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 34,3
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 45,5
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 41,4
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 37,7
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 45,8
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 42,1
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 41,6
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 39,3
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 35,6
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 28,3
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 24,0
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 20,0
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 16,0
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 17,1
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 14,3
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 12,1
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 17,6
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 13,5
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 12,7
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 14,4
+[2025-12-22 14:32:07] [clean.bat - monitor - Visual Studio Code] Move: 11,2
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -17,5
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -13,1
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -17,3
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -20,0
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -23,4
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -22,0
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -20,1
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -19,0
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -17,0
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -13,0
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -13,0
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -12,0
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -11,0
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -17,0
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -11,-1
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -20,-6
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -18,-7
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -16,-7
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -14,-5
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -12,-6
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -13,-4
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -16,-8
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -15,-6
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -12,-6
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -12,-7
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -13,-6
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -11,-4
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -15,-6
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -13,-3
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: -12,0
+[2025-12-22 14:32:08] [clean.bat - monitor - Visual Studio Code] Move: 0,-17
+[2025-12-22 14:32:09] [clean.bat - monitor - Visual Studio Code] Key: 
+[2025-12-22 14:32:09] [clean.bat - monitor - Visual Studio Code] Move: 16,1
+[2025-12-22 14:32:09] [clean.bat - monitor - Visual Studio Code] Move: 16,17
+[2025-12-22 14:32:09] [clean.bat - monitor - Visual Studio Code] Move: 12,18
+[2025-12-22 14:32:09] [clean.bat - monitor - Visual Studio Code] Move: 9,22
+[2025-12-22 14:32:09] [clean.bat - monitor - Visual Studio Code] Move: 8,20
+[2025-12-22 14:32:09] [clean.bat - monitor - Visual Studio Code] Move: 6,20
+[2025-12-22 14:32:09] [clean.bat - monitor - Visual Studio Code] Move: 3,16
+[2025-12-22 14:32:09] [clean.bat - monitor - Visual Studio Code] Move: 2,11
+[2025-12-22 14:32:09] [clean.bat - monitor - Visual Studio Code] Move: 11,7
+[2025-12-22 14:32:09] [clean.bat - monitor - Visual Studio Code] Move: 12,-1
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: -12,-4
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: -11,-7
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: -8,-11
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: 0,-11
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: 0,-12
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: 9,-16
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: 13,-14
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: 12,-8
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: 11,-7
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: 11,-7
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: 11,-8
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: 11,-6
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: 14,-2
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: 13,0
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: 14,3
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: 11,4
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: 15,8
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: 13,8
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: 18,9
+[2025-12-22 14:32:10] [clean.bat - monitor - Visual Studio Code] Move: 25,16
+[2025-12-22 14:32:11] [clean.bat - monitor - Visual Studio Code] Move: 25,9
+[2025-12-22 14:32:11] [clean.bat - monitor - Visual Studio Code] Move: 25,12
+[2025-12-22 14:32:11] [clean.bat - monitor - Visual Studio Code] Move: 22,5
+[2025-12-22 14:32:11] [clean.bat - monitor - Visual Studio Code] Move: 19,6
+[2025-12-22 14:32:11] [clean.bat - monitor - Visual Studio Code] Move: 13,4
+[2025-12-22 14:32:11] [clean.bat - monitor - Visual Studio Code] Move: 17,2
+[2025-12-22 14:32:11] [clean.bat - monitor - Visual Studio Code] Move: 13,4
+[2025-12-22 14:32:11] [clean.bat - monitor - Visual Studio Code] Move: 11,9
+[2025-12-22 14:32:11] [clean.bat - monitor - Visual Studio Code] Move: -11,-3
+[2025-12-22 14:32:11] [clean.bat - monitor - Visual Studio Code] Move: -11,-3
+[2025-12-22 14:32:11] [clean.bat - monitor - Visual Studio Code] Move: -12,-4
+[2025-12-22 14:32:11] [clean.bat - monitor - Visual Studio Code] Mouse: Left Click
+[2025-12-22 14:32:11] [Pro Input Recorder v3.1] Move: -11,-7
+[2025-12-22 14:32:11] [Pro Input Recorder v3.1] Move: -13,-10
+[2025-12-22 14:32:11] [Pro Input Recorder v3.1] Move: -13,-17
+[2025-12-22 14:32:11] [Pro Input Recorder v3.1] Move: -9,-14
+[2025-12-22 14:32:11] [Pro Input Recorder v3.1] Move: -16,-22
+[2025-12-22 14:32:11] [Pro Input Recorder v3.1] Move: -16,-22
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -23,-40
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -28,-48
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -22,-52
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -30,-64
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -29,-63
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -30,-71
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -23,-58
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -21,-63
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -20,-59
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -13,-59
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -15,-52
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -10,-50
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -4,-39
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -5,-48
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -5,-28
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -5,-27
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -1,-22
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -4,-14
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -1,-12
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: -2,-12
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: 0,-11
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: 0,-11
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: 5,-12
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: 7,-13
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: 5,-12
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: 15,-13
+[2025-12-22 14:32:12] [Pro Input Recorder v3.1] Move: 7,12
+[2025-12-22 14:32:13] [Pro Input Recorder v3.1] Mouse: Left Click
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -11,10
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -4,14
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -3,11
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -1,11
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -1,12
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -1,15
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 0,13
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 0,20
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 1,33
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 13,44
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 14,48
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 22,55
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 27,63
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 26,63
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 30,54
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 29,56
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 31,53
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 26,43
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 20,37
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 20,32
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 23,33
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 24,33
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 21,30
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 22,35
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 16,29
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 12,21
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 5,13
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 8,17
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 5,14
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: 2,13
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -4,11
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -12,14
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -7,15
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -6,14
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -7,13
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -7,13
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -17,14
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -15,3
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -16,3
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -15,5
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -14,5
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -16,4
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -17,3
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -11,3
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -14,2
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -13,1
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -21,2
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -19,0
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -30,0
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -39,-2
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -48,-10
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -56,-12
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -62,-14
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -72,-13
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -66,-8
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -62,-4
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -61,3
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -42,5
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -36,5
+[2025-12-22 14:32:14] [clean.bat - monitor - Visual Studio Code] Move: -12,2
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -40,1
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -15,1
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -18,2
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -33,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -30,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -30,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -13,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -11,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -22,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -11,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -11,-3
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -20,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -22,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -15,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -15,-2
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -14,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -12,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -16,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -13,1
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -11,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -11,6
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -16,6
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -25,9
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -16,7
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -15,7
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -14,6
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -23,10
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -18,7
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -21,4
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -22,1
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -31,2
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -27,-3
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -37,3
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -40,1
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -44,-3
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -59,-1
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -46,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -51,-2
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -44,3
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -46,-1
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -38,-3
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -35,-2
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -41,-2
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -34,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -27,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -28,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -20,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -17,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -13,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: -11,0
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: 14,-5
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: 12,-7
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: 17,-6
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: 11,-4
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: 11,-3
+[2025-12-22 14:32:15] [clean.bat - monitor - Visual Studio Code] Move: 12,0
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 14,0
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 21,-1
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 14,0
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 21,0
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 12,0
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 19,3
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 20,1
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 12,3
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 17,2
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 14,2
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 21,0
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 12,0
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 20,0
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 19,0
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 16,0
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 12,0
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 11,0
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 11,-3
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 12,-9
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Move: 11,-7
+[2025-12-22 14:32:16] [clean.bat - monitor - Visual Studio Code] Mouse: Left Click
+[2025-12-22 14:32:16] [系统托盘溢出窗口。] Move: 9,-14
+[2025-12-22 14:32:17] [系统托盘溢出窗口。] Move: 2,-14
+[2025-12-22 14:32:17] [系统托盘溢出窗口。] Move: 0,-15
+[2025-12-22 14:32:17] [系统托盘溢出窗口。] Move: 0,-11
+[2025-12-22 14:32:17] [系统托盘溢出窗口。] Move: 0,-13
+[2025-12-22 14:32:17] [系统托盘溢出窗口。] Move: -5,-15
+[2025-12-22 14:32:17] [系统托盘溢出窗口。] Move: -5,-11
+[2025-12-22 14:32:17] [系统托盘溢出窗口。] Move: -9,-11
+[2025-12-22 14:32:17] [系统托盘溢出窗口。] Move: -12,-9
+[2025-12-22 14:32:17] [系统托盘溢出窗口。] Move: -12,-9
+[2025-12-22 14:32:17] [系统托盘溢出窗口。] Move: -14,-11
+[2025-12-22 14:32:17] [系统托盘溢出窗口。] Move: -13,-14
+[2025-12-22 14:32:17] [系统托盘溢出窗口。] Move: -4,-13
+[2025-12-22 14:32:17] [系统托盘溢出窗口。] Move: -4,-13
+[2025-12-22 14:32:17] [系统托盘溢出窗口。] Move: -1,-12
+[2025-12-22 14:32:17] [系统托盘溢出窗口。] Move: -1,-12
+[2025-12-22 14:32:17] [系统托盘溢出窗口。] Move: -3,-13
+[2025-12-22 14:32:17] [系统托盘溢出窗口。] Move: -5,-12
+[2025-12-22 14:32:17] [系统托盘溢出窗口。] Mouse: Right Click
+[2025-12-22 14:32:18] [Pro Input Recorder v3.1] Move: 9,11
+[2025-12-22 14:32:18] [Pro Input Recorder v3.1] Move: 15,5
+[2025-12-22 14:32:18] [Pro Input Recorder v3.1] Move: 16,10
+[2025-12-22 14:32:18] [Pro Input Recorder v3.1] Move: 12,6
+[2025-12-22 14:32:18] [Pro Input Recorder v3.1] Mouse: Left Click

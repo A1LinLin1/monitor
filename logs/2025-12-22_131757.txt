@@ -1,0 +1,2563 @@
+[2025-12-22 13:18:43] >>> Recording Started <<<
+[2025-12-22 13:18:43] [Google Gemini - Google Chrome] MouseMove: dx=79, dy=81
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=7, dy=0
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=9, dy=5
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=14, dy=7
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=14, dy=12
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=29, dy=24
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=28, dy=20
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=38, dy=29
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=44, dy=30
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=38, dy=32
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=49, dy=41
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=42, dy=37
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=42, dy=35
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=45, dy=36
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=34, dy=26
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=38, dy=29
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=36, dy=19
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=32, dy=25
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=31, dy=23
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=31, dy=23
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=24, dy=16
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=25, dy=19
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=20, dy=14
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=21, dy=16
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=18, dy=13
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=18, dy=12
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=21, dy=18
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=21, dy=16
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=18, dy=13
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=21, dy=16
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=18, dy=13
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=12, dy=9
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=19, dy=13
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=12, dy=7
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=13, dy=7
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=5, dy=2
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=6, dy=3
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=3, dy=2
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=1
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=3, dy=1
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=6, dy=2
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=6, dy=1
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=8, dy=0
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=8, dy=0
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=9, dy=0
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=10, dy=0
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=10, dy=0
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=7, dy=-1
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=8, dy=0
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=11, dy=-3
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=7, dy=-2
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=7, dy=-2
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=10, dy=0
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=6, dy=-2
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=5, dy=-1
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=-2
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=3, dy=-1
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=3, dy=-2
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=0
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=3, dy=0
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=3, dy=-1
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=0
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=3, dy=0
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=4, dy=0
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=4, dy=0
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=0
+[2025-12-22 13:18:44] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=0
+[2025-12-22 13:18:45] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=0
+[2025-12-22 13:18:45] [Google Gemini - Google Chrome] MouseMove: dx=3, dy=0
+[2025-12-22 13:18:45] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=1
+[2025-12-22 13:18:45] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=1
+[2025-12-22 13:18:45] [Google Gemini - Google Chrome] MouseMove: dx=3, dy=0
+[2025-12-22 13:18:45] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=1
+[2025-12-22 13:18:45] [Google Gemini - Google Chrome] MouseMove: dx=3, dy=2
+[2025-12-22 13:18:45] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=0
+[2025-12-22 13:18:45] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=0
+[2025-12-22 13:18:45] [Google Gemini - Google Chrome] Mouse: Left Click
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=1, dy=-3
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-5
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-5
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-7
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-5
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-7
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=4, dy=-6
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=1, dy=-5
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=1, dy=-6
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=2, dy=-5
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=1, dy=-6
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-5
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=1, dy=-5
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-6
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-6
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-6
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-7
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-4
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-4, dy=-6
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-4
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-5
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-3, dy=-5
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-3
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-3
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-4
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-4
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-4, dy=-5
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-4
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-3
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-3, dy=-4
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-4, dy=-4
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:18:45] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-3
+[2025-12-22 13:18:46] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-3
+[2025-12-22 13:18:46] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:18:46] [系统托盘溢出窗口。] MouseMove: dx=-3, dy=-2
+[2025-12-22 13:18:46] [系统托盘溢出窗口。] MouseMove: dx=-4, dy=-6
+[2025-12-22 13:18:46] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:18:46] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:18:46] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:18:46] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:18:46] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:18:46] [系统托盘溢出窗口。] MouseMove: dx=-4, dy=-1
+[2025-12-22 13:18:46] [系统托盘溢出窗口。] MouseMove: dx=-3, dy=-1
+[2025-12-22 13:18:46] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:18:46] [系统托盘溢出窗口。] MouseMove: dx=-4, dy=-1
+[2025-12-22 13:18:46] [系统托盘溢出窗口。] MouseMove: dx=-4, dy=-1
+[2025-12-22 13:18:46] [系统托盘溢出窗口。] MouseMove: dx=-3, dy=0
+[2025-12-22 13:18:46] [系统托盘溢出窗口。] MouseMove: dx=-4, dy=-2
+[2025-12-22 13:18:46] [系统托盘溢出窗口。] MouseMove: dx=-3, dy=-1
+[2025-12-22 13:18:46] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=0
+[2025-12-22 13:18:46] [系统托盘溢出窗口。] Mouse: Left Click
+[2025-12-22 13:18:47] [系统托盘溢出窗口。] Mouse: Right Click
+[2025-12-22 13:18:47] [Input Recorder v2.0] MouseMove: dx=-7, dy=-2
+[2025-12-22 13:18:47] [Input Recorder v2.0] MouseMove: dx=-21, dy=-3
+[2025-12-22 13:18:47] [Input Recorder v2.0] MouseMove: dx=-39, dy=-4
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-53, dy=-9
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-69, dy=-10
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-59, dy=-7
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-64, dy=-12
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-61, dy=-17
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-60, dy=-17
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-62, dy=-20
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-58, dy=-25
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-59, dy=-24
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-52, dy=-24
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-50, dy=-23
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-53, dy=-29
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-34, dy=-24
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-44, dy=-33
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-38, dy=-24
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-1, dy=-5
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-2, dy=-4
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-2, dy=-6
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-3
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-3
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-6
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-7
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-7
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-12
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-10
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-6
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-6
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-5
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-5
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-5
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-5
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-2, dy=-6
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-1, dy=-5
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-2, dy=-3
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-4
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-4
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-3
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-4
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:48] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:49] [Input Recorder v2.0] Mouse: Left Click
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-3, dy=0
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-4, dy=4
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-5, dy=2
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-6, dy=5
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-4, dy=3
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-6, dy=3
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-6, dy=5
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-6, dy=5
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-4, dy=2
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-6, dy=5
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-4, dy=2
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-3, dy=3
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-2, dy=1
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-2, dy=2
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-2, dy=2
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-3, dy=3
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-2, dy=2
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-3, dy=3
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-4, dy=5
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-3, dy=4
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-2, dy=2
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-2, dy=3
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-3, dy=2
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-1, dy=2
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-1, dy=2
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-2, dy=2
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-1, dy=3
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-3, dy=-4
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-2, dy=-3
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=0, dy=-3
+[2025-12-22 13:18:50] [Input Recorder v2.0] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-3, dy=-1
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-3, dy=-3
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=-3
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-2, dy=1
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-1, dy=3
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-2, dy=4
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-1, dy=5
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-2, dy=2
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-1, dy=4
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-1, dy=2
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=4
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-1, dy=4
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-2, dy=7
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=4
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=5
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-1, dy=5
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=4
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=4
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=5
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=4
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=4
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=4
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=5
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-1, dy=2
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=5
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-1, dy=4
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=-2, dy=4
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:51] [Input Recorder v2.0] MouseMove: dx=0, dy=4
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=-1, dy=3
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=-5
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=-3
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=-5
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=-6
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=-5
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=-3
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=-3
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=-4
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=-4
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=5
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=-1, dy=6
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=5
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=-1, dy=5
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=5
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=-1, dy=7
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=4
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=6
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=6
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=2, dy=3
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=3, dy=1
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=5, dy=1
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=4, dy=0
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=6, dy=0
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=5, dy=-2
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=3, dy=-4
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=6, dy=-8
+[2025-12-22 13:18:52] [Input Recorder v2.0] MouseMove: dx=0, dy=-3
+[2025-12-22 13:18:53] [Input Recorder v2.0] MouseMove: dx=3, dy=0
+[2025-12-22 13:18:53] [Input Recorder v2.0] MouseMove: dx=2, dy=0
+[2025-12-22 13:18:53] [Input Recorder v2.0] MouseMove: dx=1, dy=2
+[2025-12-22 13:18:53] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:53] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:53] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:53] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:53] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:53] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:53] [Input Recorder v2.0] MouseMove: dx=0, dy=4
+[2025-12-22 13:18:53] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:53] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:53] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:53] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:53] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:54] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:54] [Input Recorder v2.0] MouseMove: dx=2, dy=2
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-5
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=-1, dy=-5
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-4
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-5
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=-1, dy=-5
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-9
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-8
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-7
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-7
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-11
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-9
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-8
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=3, dy=-9
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=1, dy=-12
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=2, dy=-12
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-10
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=1, dy=-10
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=2, dy=-9
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=2, dy=-8
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-7
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=1, dy=-5
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=1, dy=-6
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-8
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-5
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-9
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-7
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-3
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=2, dy=-3
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-4
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=1, dy=-3
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-3
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-4
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-3
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=1, dy=-2
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:55] [Input Recorder v2.0] MouseMove: dx=0, dy=-3
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=0, dy=-3
+[2025-12-22 13:18:56] [Input Recorder v2.0] Mouse: Left Click
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=-4, dy=2
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=-3, dy=3
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=-1, dy=2
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=-2, dy=3
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=-1, dy=3
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=-3, dy=4
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=-1, dy=2
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=0, dy=5
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=0, dy=5
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=0, dy=7
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=0, dy=8
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=2, dy=9
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=2, dy=9
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=5, dy=10
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=6, dy=11
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=6, dy=11
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=7, dy=12
+[2025-12-22 13:18:56] [Input Recorder v2.0] MouseMove: dx=15, dy=19
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=12, dy=13
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=14, dy=15
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=15, dy=14
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=11, dy=6
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=11, dy=7
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=8, dy=3
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=8, dy=3
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=2, dy=0
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=2, dy=-3
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-3, dy=-8
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-1, dy=-8
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-4, dy=-11
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-3, dy=-12
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-5, dy=-7
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-2, dy=-7
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-7, dy=-11
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-4, dy=-6
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-5, dy=-6
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-3, dy=-3
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-5, dy=-5
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-3, dy=-4
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-5, dy=-6
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-3, dy=-3
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-3, dy=-1
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-3, dy=-1
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-4, dy=-3
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-4, dy=-3
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-3, dy=-1
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-4, dy=-2
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-3, dy=-2
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-7, dy=-4
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:18:57] [Input Recorder v2.0] MouseMove: dx=-3, dy=0
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=3, dy=-4
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=2, dy=-2
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=1, dy=-2
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=3, dy=-1
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=7, dy=-4
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=9, dy=-6
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=14, dy=-7
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=14, dy=-9
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=14, dy=-8
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=18, dy=-11
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=11, dy=-8
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=20, dy=-14
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=12, dy=-9
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=12, dy=-8
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=8, dy=-8
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=8, dy=-9
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=5, dy=-6
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=1, dy=-5
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=0, dy=-7
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=0, dy=-4
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=0, dy=-6
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-5, dy=-6
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-3, dy=-6
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=0, dy=-3
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-2, dy=-3
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-2, dy=-3
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=0, dy=-3
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-2, dy=-5
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=0, dy=-2
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-3, dy=0
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-4, dy=1
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-3, dy=3
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-2, dy=4
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-3, dy=6
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-3, dy=11
+[2025-12-22 13:18:58] [Input Recorder v2.0] MouseMove: dx=-5, dy=12
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-6, dy=14
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-7, dy=14
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-7, dy=15
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-5, dy=12
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-7, dy=12
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-4, dy=6
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-3, dy=6
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-1, dy=3
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-3, dy=5
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-1, dy=3
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-1, dy=3
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-3, dy=4
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-1, dy=3
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-1, dy=2
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-2, dy=2
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-2, dy=4
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-3, dy=3
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-2, dy=3
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-1, dy=3
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-2, dy=2
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-1, dy=3
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-2, dy=2
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=-1, dy=2
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:59] [Input Recorder v2.0] MouseMove: dx=0, dy=3
+[2025-12-22 13:18:59] [Input Recorder v2.0] Mouse: Left Click
+[2025-12-22 13:18:59] <<< Recording Stopped >>>
+[2025-12-22 13:19:01] >>> Recording Started <<<
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=88, dy=80
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=0, dy=6
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=1, dy=11
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=4, dy=15
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=5, dy=15
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=9, dy=18
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=16, dy=30
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=18, dy=30
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=24, dy=34
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=32, dy=41
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=31, dy=36
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=36, dy=36
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=28, dy=32
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=32, dy=28
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=31, dy=25
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=25, dy=19
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=29, dy=27
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=25, dy=21
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=25, dy=21
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=23, dy=23
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=20, dy=22
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=23, dy=23
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=19, dy=19
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=17, dy=19
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=15, dy=18
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=16, dy=16
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=15, dy=14
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=8, dy=8
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=13, dy=8
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=14, dy=8
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=5, dy=3
+[2025-12-22 13:19:01] [Google Gemini - Google Chrome] MouseMove: dx=3, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=1, dy=4
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=3, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=5, dy=1
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=4, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=3, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=4, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=5, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=6, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=12, dy=-4
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=7, dy=-1
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=12, dy=-4
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=8, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=12, dy=-1
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=12, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=13, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=15, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=18, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=17, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=18, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=18, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=18, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=18, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=15, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=12, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=8, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=7, dy=1
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=6, dy=2
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=4, dy=1
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=4
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=3
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=-1, dy=2
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=2
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=3
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=1
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=-4, dy=2
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=1
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=1
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=-1, dy=2
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=1
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:02] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-7, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-10, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-12, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-15, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-13, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-13, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-10, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-10, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-7, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=4, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=4, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=5, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=4, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=5, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=4, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=5, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=5, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=4, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=4, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=4, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-7, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-10, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-9, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-11, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-15, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-13, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-14, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-15, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-15, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-11, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-12, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-12, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-6, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-7, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=1
+[2025-12-22 13:19:03] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-9, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-6, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-10, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-7, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-6, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-4, dy=-1
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=-1
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-4, dy=-1
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-4, dy=-2
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:04] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=1, dy=-3
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=-4
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=3, dy=-2
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=-8
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=5, dy=-7
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=6, dy=-9
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=-7
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=7, dy=-11
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=5, dy=-8
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=5, dy=-10
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=5, dy=-9
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=-5
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=5, dy=-6
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=3, dy=-4
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=1, dy=-3
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=1, dy=-2
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=1, dy=-2
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-8, dy=0
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-8, dy=0
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-7, dy=0
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-12, dy=-3
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-7, dy=0
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-10, dy=-1
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-9, dy=-1
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-8, dy=-2
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-8, dy=-2
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-6, dy=-1
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=-1
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-4, dy=-2
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:05] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:19:06] [Google Gemini - Google Chrome] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:06] [Google Gemini - Google Chrome] Mouse: Left Click
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=4, dy=-3
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=6, dy=-1
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=17, dy=-6
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=20, dy=-5
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=34, dy=-10
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=44, dy=-11
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=115, dy=-33
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=74, dy=-21
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=78, dy=-20
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=77, dy=-21
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=78, dy=-26
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=91, dy=-19
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=87, dy=-21
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=87, dy=-24
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=81, dy=-18
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=91, dy=-24
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=68, dy=-22
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=74, dy=-21
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=77, dy=-21
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=60, dy=-18
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=59, dy=-12
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=48, dy=-12
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=40, dy=-9
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=33, dy=-10
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=24, dy=-6
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=20, dy=-7
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=11, dy=-4
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=4, dy=-1
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-11, dy=10
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-21, dy=13
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-39, dy=16
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-52, dy=16
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-59, dy=17
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-68, dy=16
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-66, dy=15
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-87, dy=18
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-90, dy=16
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-87, dy=13
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-86, dy=11
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-83, dy=13
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-65, dy=7
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-70, dy=10
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-52, dy=7
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-53, dy=7
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-42, dy=6
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-39, dy=4
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-30, dy=6
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-21, dy=1
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-17, dy=0
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-11, dy=2
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-9, dy=0
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-6, dy=0
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-4, dy=-4
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-3, dy=-2
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-3, dy=-1
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-6, dy=-1
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-9, dy=-3
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-5, dy=-3
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-8, dy=-6
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-9, dy=-7
+[2025-12-22 13:19:06] [monitor - 文件资源管理器] MouseMove: dx=-8, dy=-9
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-7, dy=-9
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-7, dy=-12
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-6, dy=-13
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-3, dy=-12
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-4, dy=-12
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-3, dy=-15
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=-13
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=-15
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=-18
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=-18
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=-15
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=-18
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=-15
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=-14
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=-13
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-3, dy=-12
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-3, dy=-9
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-6, dy=-12
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-8, dy=-12
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-5, dy=-8
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-7, dy=-12
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-6, dy=-8
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-6, dy=-6
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-5, dy=-8
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-4, dy=-4
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-3, dy=-1
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-3, dy=-2
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-4, dy=-1
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-4, dy=-1
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-7, dy=-1
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-7, dy=0
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-8, dy=0
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-7, dy=0
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-7, dy=0
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-7, dy=3
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-6, dy=2
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-4, dy=4
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-2, dy=1
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-2, dy=3
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-1, dy=4
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-1, dy=4
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=1, dy=3
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=2, dy=1
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=2, dy=3
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=2, dy=1
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] Mouse: Wheel Scroll
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] Mouse: Wheel Scroll
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=3, dy=1
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] Mouse: Wheel Scroll
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] Mouse: Wheel Scroll
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] Mouse: Wheel Scroll
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=4, dy=0
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=4, dy=-2
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=3, dy=-3
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=6, dy=-8
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] Mouse: Wheel Scroll
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] Mouse: Wheel Scroll
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] Mouse: Wheel Scroll
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] Mouse: Wheel Scroll
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] Mouse: Wheel Scroll
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] Mouse: Wheel Scroll
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] Mouse: Wheel Scroll
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=1, dy=-6
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=1, dy=-6
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=4, dy=-6
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=1, dy=-2
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-3, dy=-8
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-3, dy=-5
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-2, dy=-5
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-7, dy=-9
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-5, dy=-6
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-5, dy=-7
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-2, dy=-6
+[2025-12-22 13:19:07] [monitor - 文件资源管理器] MouseMove: dx=-5, dy=-11
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=-1, dy=-5
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=-4, dy=-6
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] Mouse: Left Click
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] Mouse: Left Click
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=1, dy=3
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=2, dy=4
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=3, dy=4
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=2, dy=2
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=3, dy=3
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=3, dy=2
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=2, dy=3
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=2, dy=3
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=1, dy=3
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=1, dy=4
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=3, dy=7
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=1, dy=4
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=7, dy=8
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=6, dy=6
+[2025-12-22 13:19:08] [monitor - 文件资源管理器] MouseMove: dx=4, dy=6
+[2025-12-22 13:19:09] [monitor - 文件资源管理器] MouseMove: dx=8, dy=7
+[2025-12-22 13:19:09] [monitor - 文件资源管理器] MouseMove: dx=9, dy=6
+[2025-12-22 13:19:09] [monitor - 文件资源管理器] MouseMove: dx=10, dy=6
+[2025-12-22 13:19:09] [monitor - 文件资源管理器] MouseMove: dx=10, dy=3
+[2025-12-22 13:19:09] [monitor - 文件资源管理器] MouseMove: dx=10, dy=5
+[2025-12-22 13:19:09] [monitor - 文件资源管理器] MouseMove: dx=7, dy=0
+[2025-12-22 13:19:09] [monitor - 文件资源管理器] MouseMove: dx=3, dy=0
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-3, dy=1
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-3, dy=2
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-2, dy=1
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-3, dy=4
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-4, dy=5
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-3, dy=4
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-4, dy=6
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-3, dy=6
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-2, dy=3
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-2, dy=5
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-2, dy=4
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-1, dy=4
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-2, dy=4
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-1, dy=3
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-1, dy=4
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-1, dy=5
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-2, dy=5
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=-1, dy=2
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:09] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=1, dy=4
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=1, dy=6
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=1, dy=5
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=2, dy=5
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=7
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=1, dy=7
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=1, dy=7
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=2, dy=7
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=2, dy=6
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=1, dy=7
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:10] [logs - 文件资源管理器] Mouse: Left Click
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=-7
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=-7
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=-7
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=-11
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=-9
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=-10
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=-11
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=-11
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=-11
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=-12
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=-11
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=-12
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=-2, dy=-15
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=-4, dy=-17
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=-8, dy=-25
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=-10, dy=-34
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=-8, dy=-30
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=-8, dy=-22
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=-4, dy=-12
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=-3, dy=-10
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=-3, dy=-4
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=-2, dy=-3
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=-3, dy=-2
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=-4, dy=-3
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=-3, dy=-3
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=1, dy=4
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=2, dy=1
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:10] [logs - 文件资源管理器] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=2, dy=2
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=3, dy=2
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=3, dy=3
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=2, dy=2
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=1, dy=3
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=2, dy=3
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=1, dy=3
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=2, dy=4
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=2, dy=6
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=1, dy=4
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=1, dy=6
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=10
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=1, dy=7
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=2, dy=8
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=1, dy=9
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=7
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=6
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=9
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=7
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=1, dy=4
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=1, dy=4
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=1, dy=3
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=1, dy=3
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:11] [logs - 文件资源管理器] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:14] [logs - 文件资源管理器] Mouse: Left Click
+[2025-12-22 13:19:14] [logs - 文件资源管理器] Mouse: Left Click
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=1
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-4
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-5, dy=-1
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-7, dy=-1
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-8, dy=-4
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-10, dy=0
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-8, dy=0
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-12, dy=0
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-8, dy=0
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-9, dy=0
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-8, dy=0
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-7, dy=0
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=2
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=2
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=1
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:15] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:16] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:16] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:19] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:19] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:19] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:19] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:19] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:19] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:19] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:19] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:19] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:19] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:19] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:19] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:19] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:19] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:19] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:20] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:20] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:20] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:20] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:20] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:20] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:20] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:20] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:20] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:20] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:20] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:20] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:20] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:21] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:21] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:21] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:21] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:21] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:21] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:21] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:22] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:22] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:22] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:22] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:22] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:22] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:23] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:23] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:23] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:23] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:23] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:24] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-2
+[2025-12-22 13:19:25] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:25] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-2
+[2025-12-22 13:19:25] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:25] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:25] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:25] [2025-12-22_131757.txt - Notepad] Mouse: Left Click
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=0
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=5, dy=0
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=5, dy=0
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=7, dy=0
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=5, dy=0
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=9, dy=0
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=8, dy=0
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=10, dy=0
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=8, dy=0
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=10, dy=0
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=11, dy=0
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=13, dy=0
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=12, dy=0
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=11, dy=0
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=12, dy=0
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=12, dy=-3
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=9, dy=-1
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=12, dy=-3
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=10, dy=-4
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=10, dy=-3
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=11, dy=-5
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=11, dy=-5
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=10, dy=-3
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=9, dy=-5
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=9, dy=-4
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=-2
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=6, dy=-3
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=-4
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=5, dy=-3
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=-2
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-3
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=-2
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-2
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-3
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=6, dy=-3
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=-2
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-2
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-2
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=-1
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-1
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-2
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-1
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-1
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-1
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-1
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-2
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-2
+[2025-12-22 13:19:26] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-2
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] Mouse: Left Click
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-1
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=4
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=4
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=4
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=4
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=4
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=4
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=7
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=5
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=3
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=3
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=3
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=2
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=5
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=2
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=3
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:27] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=4
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=4
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=6
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=3
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=4
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=6
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=3
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=5
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=4
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=5
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=9
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=5
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=8
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=6
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=6
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=9
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=5
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=7
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=4
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=3
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=5
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=3
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:28] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=3
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=5
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=4
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=4
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=3
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=4
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=4
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=3
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:29] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=5
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=3
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=4
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=3
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=3
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=4
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=4
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=3
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=3
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:30] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=1
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:31] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=-1
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-8, dy=-4
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-7, dy=-3
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-13, dy=-5
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-12, dy=-4
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-13, dy=-4
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-14, dy=-5
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-11, dy=-6
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-12, dy=-6
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-9, dy=-3
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-12, dy=-7
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-4
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-5, dy=-6
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-8, dy=-8
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-4
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=-2
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-8, dy=-5
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-8, dy=-1
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-14, dy=-6
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-10, dy=-2
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-8, dy=-8
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-5
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-11, dy=-7
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-9, dy=-5
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=-1
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=3
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=3
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-1
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-3
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-4
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-3
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-4
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-5
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-3
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-1
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=-2
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-2
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=-2
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:32] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-1
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-1
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-2
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-3
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-3
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-10
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-11
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-11
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-5, dy=-14
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=-12
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-14
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-15
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-13
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-14
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-11
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-10
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-12
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-10
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-7
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-7
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-6
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-2
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-1
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-7, dy=1
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=1
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-9, dy=4
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=1
+[2025-12-22 13:19:33] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=2
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=1
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-12, dy=-3
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-14, dy=-4
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-10, dy=0
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-12, dy=-4
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-15, dy=-4
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-11, dy=-2
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-9, dy=-4
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=-2
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-5
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-5, dy=-3
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-3
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-3
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-3
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-4
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-7
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-9
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-10
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-8
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-7
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-8
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-10
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-9
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-10
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-12
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=5, dy=-12
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-11
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-12
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-7
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-4
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=7, dy=-12
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-1
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-3
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-4
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-7
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-6
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-7
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-7
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-7
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-6
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=6, dy=-7
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=8, dy=-9
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=8, dy=-7
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=9, dy=-6
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=9, dy=-7
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=9, dy=-8
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=11, dy=-5
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=9, dy=-4
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=7, dy=-5
+[2025-12-22 13:19:34] [2025-12-22_131757.txt - Notepad] MouseMove: dx=8, dy=-4
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=5, dy=-3
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=8, dy=-5
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=6, dy=-4
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=-3
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=6, dy=-5
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=6, dy=-3
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=-4
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=5, dy=-3
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-3
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=6, dy=-3
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-2
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=3
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=2
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=6
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=3
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=4
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=5
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=3
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=6
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=3
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=5
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=6
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=7
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=9
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=7
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=6
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=7
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=9
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=9
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=9
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=9
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-5, dy=10
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=14
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=12
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=15
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=12
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=15
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=17
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=16
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=17
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=18
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=17
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=12
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=13
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=15
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=12
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=6, dy=20
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=17
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=14
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=13
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=14
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=12
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=8
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=14
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=10
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=8
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=6, dy=9
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=3
+[2025-12-22 13:19:35] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=-1
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-3
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-4
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-4
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=-9
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-4
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=-8
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-9
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=5, dy=-11
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=-10
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=6, dy=-11
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=5, dy=-12
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-10
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=-12
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-12
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-12
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-10
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-14
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=-14
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-8
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-7
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-7
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-7
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-7
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-7
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-7
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-7
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-10
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-9
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-7
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-8
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-6
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-6
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-3
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-4
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-4
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-6
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-5
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=-5
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-4
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-3
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-1
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:36] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:37] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:37] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:37] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:37] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:37] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:37] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:37] [2025-12-22_131757.txt - Notepad] Mouse: Left Click
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=3, dy=-1
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=7, dy=1
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=7, dy=1
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=5, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=7, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=5, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=4, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=5, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=4, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=4, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=6, dy=-2
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=4, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=5, dy=-1
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=7, dy=-2
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=7, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=9, dy=-3
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=7, dy=-1
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=6, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=7, dy=-1
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=6, dy=-1
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=8, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=5, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=7, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=7, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=7, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=5, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=8, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=5, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=3, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=3, dy=0
+[2025-12-22 13:19:37] [2025-12-19_020820.txt - Notepad] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:38] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-3, dy=-1
+[2025-12-22 13:19:38] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:38] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-3, dy=-1
+[2025-12-22 13:19:38] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:38] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-3, dy=-2
+[2025-12-22 13:19:38] [2025-12-19_020820.txt - Notepad] Mouse: Left Click
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=-1, dy=2
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=6
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=9
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=10
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=9
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=3, dy=21
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=1, dy=14
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=3, dy=19
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=3, dy=19
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=4, dy=20
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=2, dy=16
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=3, dy=17
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=4, dy=22
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=7, dy=24
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=9, dy=28
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=9, dy=24
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=8, dy=19
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=2, dy=15
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=4, dy=9
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=2, dy=8
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=-1, dy=-5
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=-2, dy=-6
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=-2, dy=-4
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:38] [logs - 文件资源管理器] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:39] [logs - 文件资源管理器] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:39] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:39] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:39] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:39] [logs - 文件资源管理器] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:39] [logs - 文件资源管理器] Mouse: Left Click
+[2025-12-22 13:19:39] [logs - 文件资源管理器] Mouse: Left Click
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-2, dy=2
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-3, dy=1
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-4, dy=3
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-6, dy=3
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-5, dy=2
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-5, dy=2
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-7, dy=4
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-4, dy=2
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-3, dy=1
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-2, dy=2
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-9, dy=0
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-7, dy=0
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-6, dy=0
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-10, dy=0
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-27, dy=0
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-28, dy=10
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-11, dy=5
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-19, dy=8
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-12, dy=5
+[2025-12-22 13:19:39] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-7, dy=1
+[2025-12-22 13:19:40] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-5, dy=2
+[2025-12-22 13:19:40] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-2, dy=1
+[2025-12-22 13:19:40] [2025-12-19_020820.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:40] [2025-12-19_020820.txt - Notepad] MouseMove: dx=-2, dy=1
+[2025-12-22 13:19:40] [2025-12-19_020820.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:40] [2025-12-19_020820.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:40] [2025-12-19_020820.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:40] [2025-12-19_020820.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:40] [2025-12-19_020820.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=7, dy=0
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=11, dy=0
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=16, dy=-5
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=21, dy=0
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=34, dy=0
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=34, dy=0
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=34, dy=0
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=34, dy=0
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=33, dy=-5
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=19, dy=-3
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=15, dy=-2
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=14, dy=-4
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=7, dy=-2
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=7, dy=-4
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-2
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-4
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-6
+[2025-12-22 13:19:40] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-3
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-5
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-4
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-2
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-5
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-5
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-4
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-3
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=-7
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-3
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-3
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-4
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-3
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-3
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-3
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-1
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-2
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-4
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-7
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-6
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-7
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-6
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:41] [2025-12-22_131757.txt - Notepad] Mouse: Left Click
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=3
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=8
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=7
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=6
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=7
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=6
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=7
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=10
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=9
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=13
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=12
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-5, dy=13
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=15
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=15
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=16
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=11
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=12
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=8
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=10
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=11
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=7
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=5
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=7
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=4
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=7
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=4
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=3
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=7
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=8
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=10
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=11
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=10
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=13
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=14
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=13
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=12
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=12
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=8
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=8
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=7
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=6
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=3
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:42] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=2
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=2
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=3
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:43] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-7
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-5
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-5, dy=-8
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-7, dy=-9
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-6
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-6
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=-5
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-3
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-5, dy=-4
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-5
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=-3
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-4
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=-3
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-5
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-4, dy=-4
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-7, dy=-6
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-5
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-3
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-7, dy=-5
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-7, dy=-5
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-5, dy=-4
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-3
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-7, dy=-4
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-4
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-7, dy=-2
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-8, dy=-5
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-4
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-5, dy=-2
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-5
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=-2
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:44] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:45] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:45] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:45] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:45] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:45] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:45] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:46] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:46] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:46] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:46] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:46] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:46] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:46] [2025-12-22_131757.txt - Notepad] Mouse: Wheel Scroll
+[2025-12-22 13:19:47] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-5, dy=0
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=1
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-8, dy=5
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-7, dy=5
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=6
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-9, dy=8
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-8, dy=7
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=6
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-6, dy=5
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-5, dy=6
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-3, dy=4
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=5
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=4
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=3
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=4
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=3
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=3
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] Mouse: Left Click
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-3
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-3
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=-2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=5, dy=-3
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=7, dy=-7
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=8, dy=-6
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=8, dy=-8
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-4
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-5
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:48] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-2
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-2
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-7
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-7
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-11
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-13
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-14
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=5, dy=-6
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=7, dy=-11
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=5, dy=-7
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=7, dy=-9
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=5, dy=-8
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=6, dy=-8
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=6, dy=-6
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=5, dy=-4
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-4
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=7
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=11, dy=16
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=12
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=7, dy=14
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=6, dy=11
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=7, dy=11
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=8, dy=12
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=10, dy=12
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=7, dy=10
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=6, dy=7
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=6, dy=6
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=5, dy=4
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=5, dy=2
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=0
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-4
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=2, dy=-5
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=-14
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-21
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=6, dy=-29
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=4, dy=-43
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=3, dy=-54
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-44
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-34
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-41
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-31
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-24
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-21
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-18
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-15
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-16
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-13
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-14
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-13
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-13
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-12
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-8
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-9
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-2, dy=-3
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-4
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-3
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-4
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-2
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-2
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=1, dy=-2
+[2025-12-22 13:19:49] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:50] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:50] [2025-12-22_131757.txt - Notepad] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:50] [2025-12-22_131757.txt - Notepad] Mouse: Left Click
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=-3, dy=14
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=-4, dy=15
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=-4, dy=14
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=-4, dy=15
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=-2, dy=13
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=-1, dy=17
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=0, dy=17
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=0, dy=16
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=0, dy=18
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=0, dy=21
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=0, dy=16
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=0, dy=18
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=0, dy=20
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=0, dy=19
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=2, dy=18
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=4, dy=16
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=8, dy=14
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=10, dy=20
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=7, dy=16
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=7, dy=13
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=8, dy=14
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=7, dy=13
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=2, dy=7
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=4, dy=6
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=1, dy=5
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=3, dy=2
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=1, dy=4
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=1, dy=3
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=-2, dy=2
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=-4, dy=3
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=-2, dy=2
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=-5, dy=-3
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=-3, dy=-3
+[2025-12-22 13:19:50] [logs - 文件资源管理器] Mouse: Left Click
+[2025-12-22 13:19:50] [logs - 文件资源管理器] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=-3, dy=0
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=-3, dy=-2
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=0, dy=-8
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=0, dy=-10
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=0, dy=-8
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=5, dy=-11
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=5, dy=-10
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=2, dy=-11
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=5, dy=-7
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=4, dy=-11
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=3, dy=-9
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=5, dy=-10
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=5, dy=-8
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=4, dy=-4
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=5, dy=-8
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=4, dy=-6
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=3, dy=-5
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=3, dy=-3
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=1, dy=-2
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=2, dy=4
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=3, dy=7
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=5, dy=12
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=6, dy=12
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=3, dy=9
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=7, dy=13
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=10, dy=14
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=7, dy=10
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=7, dy=13
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=8, dy=16
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=12, dy=19
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=15, dy=27
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=9, dy=16
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=8, dy=22
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=8, dy=21
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=9, dy=22
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=4, dy=17
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=8, dy=24
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=5, dy=24
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=7, dy=20
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=5, dy=18
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=3, dy=14
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=4, dy=13
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=3, dy=8
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=4, dy=10
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=0, dy=5
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=2, dy=7
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=2, dy=9
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=3, dy=11
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=4, dy=12
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=3, dy=12
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=4, dy=10
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=1, dy=10
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=0, dy=9
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=1, dy=11
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=2, dy=14
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=2, dy=15
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=6, dy=15
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=9, dy=21
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=12, dy=12
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=11, dy=13
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=7, dy=5
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=9, dy=4
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=2, dy=1
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:51] [logs - 文件资源管理器] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=3, dy=1
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=5, dy=0
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=5, dy=0
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=5, dy=0
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=5, dy=0
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=6, dy=-1
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=5, dy=0
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=3, dy=-1
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=5, dy=-3
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=3, dy=-1
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=2, dy=-1
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=3, dy=0
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=3, dy=0
+[2025-12-22 13:19:52] [logs - 文件资源管理器] MouseMove: dx=2, dy=0
+[2025-12-22 13:19:52] [logs - 文件资源管理器] Mouse: Left Click
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=1, dy=-5
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-6
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-7
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-5
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-7
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-4, dy=-8
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-5
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-4, dy=-6
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-6
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-5
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-5
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-7
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-5
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-6
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-6
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-7
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-4
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-5, dy=-7
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-3, dy=-5
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-4, dy=-4
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-5, dy=-7
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:19:52] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=2, dy=-2
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=1, dy=-2
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=2, dy=-4
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-5
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-2
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=-3, dy=-3
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=-3, dy=-5
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=-3, dy=-3
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=-6, dy=-4
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=-4, dy=-3
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=-4, dy=-3
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-3
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-3
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=-3, dy=-3
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=-4, dy=-4
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=-2, dy=-2
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] MouseMove: dx=-1, dy=-2
+[2025-12-22 13:19:53] [系统托盘溢出窗口。] Mouse: Right Click
+[2025-12-22 13:19:53] [Input Recorder v2.0] MouseMove: dx=-2, dy=-1
+[2025-12-22 13:19:53] [Input Recorder v2.0] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-3, dy=2
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-2, dy=2
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-2, dy=1
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-6, dy=0
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-4, dy=0
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-6, dy=0
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-11, dy=-3
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-12, dy=-5
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-15, dy=-7
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-18, dy=-9
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-29, dy=-12
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-35, dy=-12
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-32, dy=-16
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-35, dy=-15
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-42, dy=-18
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-42, dy=-17
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-36, dy=-17
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-42, dy=-18
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-45, dy=-18
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-39, dy=-15
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-42, dy=-17
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-42, dy=-18
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-48, dy=-16
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-40, dy=-8
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-43, dy=-9
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-35, dy=-4
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-43, dy=-6
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-43, dy=-9
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-37, dy=-10
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-38, dy=-13
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-25, dy=-9
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-21, dy=-8
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-12, dy=-3
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-14, dy=-4
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-8, dy=-1
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-6, dy=-4
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-4, dy=-2
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-2, dy=0
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-2, dy=-4
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-2, dy=-4
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-3, dy=-4
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-5, dy=-6
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-4, dy=-4
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-5, dy=-5
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-3, dy=-4
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-6, dy=-8
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-4, dy=-6
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-1, dy=-4
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-1, dy=-5
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-1, dy=-6
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-2, dy=-5
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-3, dy=-9
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-4, dy=-9
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-2, dy=-7
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=-4, dy=-6
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=0, dy=-3
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=0, dy=-4
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=0, dy=2
+[2025-12-22 13:19:54] [Input Recorder v2.0] MouseMove: dx=1, dy=2
+[2025-12-22 13:19:55] [Input Recorder v2.0] Mouse: Left Click
+[2025-12-22 13:19:55] <<< Recording Stopped >>>
