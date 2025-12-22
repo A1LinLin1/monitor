@@ -1,0 +1,290 @@
+# ===========================================
+# Qt + CMake 项目 .gitignore
+# ===========================================
+
+# ----------------------------
+# 1. CMake 构建系统文件
+# ----------------------------
+# CMake缓存和配置
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CMakeDoxyfile.in
+CMakeDoxygenDefaults.cmake
+
+# CMake生成的构建系统
+Makefile
+cmake-build-*/
+cmake-out/
+CMakeUserPresets.json
+
+# Ninja构建系统（如果用Ninja）
+.ninja_deps
+.ninja_log
+build.ninja
+rules.ninja
+.ninja/
+
+# 构建目录（通用）
+build/
+_build/
+out/
+output/
+bin/
+lib/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# 跨平台构建目录
+*/build*/
+*/_build*/
+*/out*/
+*/bin*/
+*/lib*/
+*/obj*/
+
+# ----------------------------
+# 2. Qt 编译生成文件
+# ----------------------------
+# 自动生成的文件
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+moc_predefs.h
+
+# Qt元对象系统
+*.moc
+*.moc.*
+
+# Qt资源系统
+*.qrc.depends
+
+# Qt插件
+*.a
+*.la
+*.prl
+
+# ----------------------------
+# 3. Qt Creator 和 IDE
+# ----------------------------
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.autosave
+*.includes
+*.config
+*.creator
+*.creator.*
+*.files
+*.cflags
+*.cxxflags
+*.config
+
+# CLion
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.sdf
+ipch/
+*.opensdf
+*.db
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# ----------------------------
+# 4. 编译输出文件
+# ----------------------------
+# 可执行文件和库
+*.exe
+*.app
+*.dll
+*.so
+*.so.*
+*.dylib
+*.dSYM/
+
+# 目标文件和中间文件
+*.o
+*.obj
+*.elf
+*.ilk
+*.exp
+*.lib
+*.a
+*.pdb
+*.idb
+*.pch
+*.ipch
+*.sbr
+*.bsc
+*.res
+*.rc
+
+# 调试文件
+*.debug
+*.sym
+core
+core.*
+
+# ----------------------------
+# 5. Qt 特定文件
+# ----------------------------
+# Qt部署文件
+*.plist
+*.qmake.stash
+*.qmake.super
+
+# Qt翻译文件（编译后的）
+*.qm
+
+# Qt Quick/QML 缓存
+*.qmlc
+*.jsc
+
+# Qt测试相关
+TestResults/
+
+# ----------------------------
+# 6. 依赖管理
+# ----------------------------
+# Conan
+.conan/
+conanbuildinfo.cmake
+conanbuildinfo.txt
+conaninfo.txt
+conan.lock
+graph_info.json
+conanfile.pyc
+
+# Vcpkg
+vcpkg_installed/
+vcpkg_installed.txt
+
+# 其他包管理器
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+Cargo.lock
+Pipfile.lock
+poetry.lock
+
+# ----------------------------
+# 7. 系统文件
+# ----------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+# Windows
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# 编辑器临时文件
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+*.temp
+
+# ----------------------------
+# 8. 文档和日志
+# ----------------------------
+# 文档
+docs/_build/
+docs/out/
+
+# Doxygen（如果使用）
+html/
+latex/
+doc/
+
+# 日志
+*.log
+logs/
+log/
+
+# 测试覆盖
+coverage/
+*.gcda
+*.gcno
+*.gcov
+*.lcov
+
+# ----------------------------
+# 9. 版本控制忽略
+# ----------------------------
+.git/
+.gitattributes
+.gitkeep
+.gitmodules
+
+# ----------------------------
+# 10. 其他
+# ----------------------------
+# Python虚拟环境
+venv/
+env/
+.venv/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+
+# 缓存目录
+.cache/
+.cache*/
+
+# 临时目录
+tmp/
+temp/
+*.tmp
+*.temp
+
+# 用户特定配置
+local.properties
+local.settings
+user.config
+user.properties

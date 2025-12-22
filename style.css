@@ -1,0 +1,53 @@
+/* MainWindow 基础背景 */
+QMainWindow {
+    background-color: #f5f6f7;
+}
+
+/* 复选框与标签 */
+QCheckBox, QLabel {
+    color: #333333;
+    font-family: "Microsoft YaHei";
+    font-size: 13px;
+}
+
+/* 下拉框 (ComboBox) 与 日志筛选器 */
+QComboBox, QDateTimeEdit {
+    background-color: white;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+    padding: 3px 10px;
+    color: #333333;
+}
+
+QComboBox:hover, QDateTimeEdit:hover {
+    border-color: #0078d4; /* 经典 Win 蓝色 */
+}
+
+/* 日志列表容器 */
+QListWidget {
+    background-color: white;
+    border: 1px solid #dcdfe3;
+    border-radius: 4px;
+    color: #2c3e50;
+    font-family: "Consolas", "Monaco", monospace; /* 程序员等宽字体 */
+    font-size: 12px;
+    outline: none;
+}
+
+/* 日志条目悬停效果 */
+QListWidget::item:hover {
+    background-color: #f0f7ff;
+}
+
+/* 按钮样式 (开始/停止) */
+QPushButton#recordBtn {
+    background-color: #0078d4;
+    color: white;
+    border-radius: 5px;
+    padding: 8px 20px;
+    font-weight: bold;
+}
+
+QPushButton#recordBtn:hover {
+    background-color: #106ebe;
+}

@@ -1,3 +1,0 @@
-#include "resource.h"
-IDI_MAIN_ICON  ICON  "main.ico"  // 准备一个绿色图标
-IDI_REC_ICON   ICON  "rec.ico"   // 准备一个红色图标

@@ -1,3 +1,4 @@
+// myhook/config.cpp
 #include "config.h"
 
 #pragma data_seg(".shared")
