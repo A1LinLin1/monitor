@@ -117,6 +117,7 @@ cmake --build . --config Release
 ## 📖 使用说明
 
 ### ▶ 启动监控
+<img width="1127" height="977" alt="image" src="https://github.com/user-attachments/assets/c57012cd-eff5-4faf-b11c-cc050375ce20" />
 
 * 运行程序后点击 **“开始”** 按钮
 * 建议 **以管理员身份运行**，以捕获高权限窗口（如任务管理器）的输入
